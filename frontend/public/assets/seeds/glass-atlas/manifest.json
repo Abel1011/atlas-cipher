@@ -1,0 +1,180 @@
+{
+  "templateId": "seed-glass-atlas",
+  "slug": "glass-atlas",
+  "title": "The Glass Atlas",
+  "generatedAt": "2026-04-30T02:38:37.768Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Reykjavik",
+      "relativePath": "cities/01-reykjavik-scene.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/cities/01-reykjavik-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Reykjavik, Iceland. Show Hallgrimskirkja rising over colorful roofs with a cold harbor sky, volcanic light, and crisp Nordic air that immediately identifies Reykjavik. This must read as an iconic city-establishing image for Reykjavik, not a summit service corridor or theft scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Reykjavik",
+      "relativePath": "panoramas/01-reykjavik-panorama.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/panoramas/01-reykjavik-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Reykjavik, Iceland. Camera placement: eye level inside the secure map-room service corridor where the blackout was triggered by manually looping the backup routers. Show a believable technical corridor with network cabinets, insulated walls, service lift access, and cold-climate summit infrastructure detail. Include these visible clues as physical evidence in the environment: manually looped backup router cables in a non-standard configuration; a satellite phone near the service lift that dialed Osaka seconds after the atlas vanished; an old logistics credential issued during Omar Diop's prior Dakar review left near the lift; a parka pocket holding a ferry ticket stub to Dakar. Make the clues readable but native to the space. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Reykjavik",
+      "witness": "Edda Sigurdardottir",
+      "relativePath": "witnesses/reykjavik-edda-sigurdardottir-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/reykjavik-edda-sigurdardottir-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Edda Sigurdardottir. Location context: Reykjavik, Iceland. Personality: Unflappable summit floor manager who tracks every badge movement. Backstory: She coordinated the climate security summit and reconstructed the blackout minute by minute after the breach.. Voice and age cues: 40s Icelandic woman, cool and even, quietly incisive. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Reykjavik",
+      "witness": "Leif Hauksson",
+      "relativePath": "witnesses/reykjavik-leif-hauksson-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/reykjavik-leif-hauksson-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Leif Hauksson. Location context: Reykjavik, Iceland. Personality: Talkative telecom contractor with a sharp memory for anomalies. Backstory: He was brought in to verify network redundancy and stayed long enough to see the theft corridor being cleared.. Voice and age cues: 30s Icelandic man, conversational, bright, slightly breathless. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Dakar",
+      "relativePath": "cities/02-dakar-scene.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/cities/02-dakar-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Dakar, Senegal. Show the Atlantic corniche and harbor approaches under hot coastal light with dense urban layers, sea spray, and a strong sense of Dakar as a West African port capital. This must read as a city-establishing image for Dakar, not a hidden hangar evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Dakar",
+      "relativePath": "panoramas/02-dakar-panorama.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/panoramas/02-dakar-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Dakar, Senegal. Camera placement: eye level inside a private hangar beyond customs where the shockproof tube bypassed inspection before the Osaka handoff. Show a believable West African research-cargo hangar with forklifts, sealed tubes, heat haze, private aircraft access, and documentary realism. Include these visible clues as physical evidence in the environment: a shockproof tube arriving from a research vessel two nights late; a courier transfer route that skips customs into the hangar; hangar payment records under Aurora Current LLC; a handling note indicating the buyer demanded Morita gets the full atlas. Keep the space grounded and industrial rather than cinematic. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dakar",
+      "witness": "Marieme Faye",
+      "relativePath": "witnesses/dakar-marieme-faye-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/dakar-marieme-faye-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Marieme Faye. Location context: Dakar, Senegal. Personality: Strict port security sergeant who trusts manifests only after checking the cargo herself. Backstory: She oversees special handling cargo entering the Dakar research docks and flagged the suspicious tube immediately.. Voice and age cues: 40s Senegalese woman, firm, resonant, disciplined pacing. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dakar",
+      "witness": "Ibrahima Sarr",
+      "relativePath": "witnesses/dakar-ibrahima-sarr-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/dakar-ibrahima-sarr-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ibrahima Sarr. Location context: Dakar, Senegal. Personality: Independent charter pilot who notices who cancels at the last minute. Backstory: He flies ad hoc cargo missions up and down the West African coast and remembers clients who pay in cash.. Voice and age cues: 50s Senegalese man, warm, patient, confident storyteller. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Osaka",
+      "relativePath": "cities/03-osaka-scene.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/cities/03-osaka-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Osaka, Japan. Show Osaka as a dynamic river city with dense commercial towers, bridge geometry, glowing night reflections, and unmistakable modern Kansai energy. This must read as an iconic city-establishing image for Osaka, not an abandoned shipyard evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Osaka",
+      "relativePath": "panoramas/03-osaka-panorama.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/panoramas/03-osaka-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Osaka, Japan. Camera placement: eye level inside an abandoned shipyard scanning room where the atlas pages were digitized under private supervision. Show a believable industrial interior with scanning rigs, rusted steel structure, temporary power, storage crates, and documentary realism. Include these visible clues as physical evidence in the environment: an acid-etched storage crate brought in by Takeshi Morita; scanning tables with glass atlas pages under digitization; a burned spare atlas fragment in a disposal drum after scans completed; corporate paperwork tying Aurora Current LLC legal counsel to Morita's operation. Let the shipyard feel real first, with the evidence discovered inside it. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Osaka",
+      "witness": "Aiko Watanabe",
+      "relativePath": "witnesses/osaka-aiko-watanabe-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/osaka-aiko-watanabe-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Aiko Watanabe. Location context: Osaka, Japan. Personality: Disciplined infrastructure auditor who hates preventable risk. Backstory: She was auditing cable vulnerability contracts when she recognized a familiar shell company in the atlas trail.. Voice and age cues: 40s Japanese woman, precise, formal, quietly severe. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Osaka",
+      "witness": "Kenjiro Sato",
+      "relativePath": "witnesses/osaka-kenjiro-sato-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/osaka-kenjiro-sato-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Kenjiro Sato. Location context: Osaka, Japan. Personality: Night watchman with a nose for industrial trespass. Backstory: He patrols the deserted shipyard district and saw the final handoff into the scanning room.. Voice and age cues: 60s Japanese man, low gravelly voice, restrained and observant. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Lisbon",
+      "relativePath": "cities/04-lisbon-scene.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/cities/04-lisbon-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Lisbon, Portugal. Show the Tagus waterfront with layered hills, terracotta roofs, old tram corridors, Atlantic light, and the unmistakable profile of Lisbon as a historic maritime capital. This must read as an iconic city-establishing image for Lisbon, not an archive or intelligence-room interior. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Lisbon",
+      "relativePath": "panoramas/04-lisbon-panorama.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/panoramas/04-lisbon-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Lisbon, Portugal. Camera placement: eye level inside a restricted cable-routing archive room where copied atlas data was reviewed for private contractors. Show a believable secure archive with map drawers, classified routing boards, signal records, controlled lighting, and grounded documentary realism. Include these visible clues as physical evidence in the environment: scanned atlas pages on a review desk; a Morita-linked contractor packet clipped to a Lisbon liaison file; a second access log reopening the archive after Ingrid Solheim's visit; Arctic maintenance-window charts matching the stolen atlas coordinates. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Lisbon",
+      "witness": "Joao Vaz da Silva",
+      "relativePath": "witnesses/lisbon-joao-vaz-da-silva-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/lisbon-joao-vaz-da-silva-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Joao Vaz da Silva. Location context: Lisbon, Portugal. Personality: Retired signals officer who distrusts private contractors with strategic maps. Backstory: He still reviews archival cable-routing requests for a Lisbon defense liaison office and noticed when classified maintenance windows were queried for commercial reasons.. Voice and age cues: 60s Portuguese man, measured military cadence, skeptical and precise. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Lisbon",
+      "witness": "Filipe Carvalho",
+      "relativePath": "witnesses/lisbon-filipe-carvalho-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/lisbon-filipe-carvalho-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Filipe Carvalho. Location context: Lisbon, Portugal. Personality: Maritime archive coordinator who notices when official curiosity turns commercial. Backstory: He runs a restricted cable archive near the Tagus and flagged the second wave of requests because they arrived with consulting credentials instead of government paperwork.. Voice and age cues: 40s Portuguese man, calm archival tone, observant and dry. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Tokyo",
+      "relativePath": "cities/05-tokyo-scene.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/cities/05-tokyo-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Tokyo, Japan. Show a dense contemporary Tokyo skyline with layered towers, transport lines, cool night reflections, and the unmistakable metropolitan intensity of the city. This must read as an iconic city-establishing image for Tokyo, not as a corporate bid room or planning office. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Tokyo",
+      "relativePath": "panoramas/05-tokyo-panorama.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/panoramas/05-tokyo-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Tokyo, Japan. Camera placement: eye level inside Takeshi Morita's private infrastructure bid room where atlas data was turned into Arctic contract advantage. Show a believable high-end corporate planning office with wall maps, bid binders, scheduling screens, secure tablets, and grounded documentary realism. Include these visible clues as physical evidence in the environment: atlas-derived Arctic maintenance maps on the planning wall; Morita bid packets highlighting choke-point timing; a failed Omar Diop proxy proposal left on a side table; internal strategy notes proving Morita's Tokyo team used the stolen data after the Osaka scans. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Tokyo",
+      "witness": "Keiko Matsuda",
+      "relativePath": "witnesses/tokyo-keiko-matsuda-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/tokyo-keiko-matsuda-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Keiko Matsuda. Location context: Tokyo, Japan. Personality: Arctic infrastructure bid analyst who hunts impossible advantages. Backstory: She reviews high-value repair proposals for telecom consortia and immediately recognized when Morita's Arctic forecasts became too accurate to be legal.. Voice and age cues: 30s Japanese woman, crisp analytical voice, cool under pressure. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Tokyo",
+      "witness": "Sato Hashimoto",
+      "relativePath": "witnesses/tokyo-sato-hashimoto-portrait.jpg",
+      "publicUrl": "/assets/seeds/glass-atlas/witnesses/tokyo-sato-hashimoto-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Sato Hashimoto. Location context: Tokyo, Japan. Personality: Shipping logistics director who watches failed proxies reveal the real owner. Backstory: He coordinates oversized maritime bids and saw who was present when Morita's network turned the atlas into Arctic contract leverage.. Voice and age cues: 50s Japanese man, low businesslike tone, methodical and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    }
+  ]
+}

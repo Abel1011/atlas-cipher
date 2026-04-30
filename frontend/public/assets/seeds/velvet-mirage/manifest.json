@@ -1,0 +1,214 @@
+{
+  "templateId": "seed-velvet-mirage",
+  "slug": "velvet-mirage",
+  "title": "Velvet Mirage",
+  "generatedAt": "2026-04-30T03:01:55.645Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Marseille",
+      "relativePath": "cities/01-marseille-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/01-marseille-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Marseille, France. Show the Vieux-Port with Notre-Dame de la Garde above it, Mediterranean glare, working boats, limestone facades, and the layered harbor energy that makes Marseille unmistakable. This must read as an iconic city-establishing image for Marseille, not a loading dock evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Marseille",
+      "relativePath": "panoramas/01-marseille-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/01-marseille-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Marseille, France. Camera placement: eye level in the loading dock between the lab pavilion and waterfront gala where the antidote formula was swapped during a six-minute camera blackout. Show a believable summit logistics dock with couture cases, biotech cold-chain remnants, waterfront service access, and grounded documentary realism. Include these visible clues as physical evidence in the environment: overhead camera domes with fresh splice marks from the six-minute blind; a couture garment case tagged for Casablanca replacing the reagent crate; original reagent-crate floor marks with dry-ice residue; a false carnet for House Mistral Export covering the missing case while Hector Lemaire drew security attention away. Make the clues obvious enough to investigate while keeping the scene real. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Marseille",
+      "witness": "Camille Roussel",
+      "relativePath": "witnesses/marseille-camille-roussel-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/marseille-camille-roussel-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Camille Roussel. Location context: Marseille, France. Personality: Summit logistics lead who notices when elegance is used to hide sloppiness. Backstory: She coordinated secure movement between the lab pavilion and the waterfront gala hall. The theft embarrassed her enough that she memorized every deviation herself.. Voice and age cues: 30s French woman, elegant voice, brisk and unsparing. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Marseille",
+      "witness": "Idriss Belloc",
+      "relativePath": "witnesses/marseille-idriss-belloc-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/marseille-idriss-belloc-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Idriss Belloc. Location context: Marseille, France. Personality: Freelance convoy driver who keeps track of which clients overpay for silence. Backstory: He drove the luxury convoy shell used for summit guests and heard far more than he was meant to. He knows when rich people are staging distractions.. Voice and age cues: 40s Franco-Algerian man, low warm voice, alert and streetwise. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Casablanca",
+      "relativePath": "cities/02-casablanca-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/02-casablanca-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Casablanca, Morocco. Show the Atlantic coast with the Hassan II Mosque, bright sea light, wide boulevards, and the modern-commercial scale that makes Casablanca instantly recognizable. This must read as an iconic city-establishing image for Casablanca, not a bonded cold-storage evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Casablanca",
+      "relativePath": "panoramas/02-casablanca-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/02-casablanca-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Casablanca, Morocco. Camera placement: eye level inside the airport cold-storage annex where the couture garment case was opened just long enough to reveal the formula materials. Show a believable refrigerated cargo annex with insulated walls, sterile handling benches, airfreight pallets, and documentary realism. Include these visible clues as physical evidence in the environment: lab notebooks, cold-storage vials, and dry ice inside the opened garment case; signs that a master ampoule is missing from the layout; export papers refiling the cargo from Casablanca to Buenos Aires under refrigerated medical priority; sterile cabin-handling payment traces tied to Celia Varga. Keep the annex clinical and plausible rather than theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Casablanca",
+      "witness": "Yasmine El Fassi",
+      "relativePath": "witnesses/casablanca-yasmine-el-fassi-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/casablanca-yasmine-el-fassi-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Yasmine El Fassi. Location context: Casablanca, Morocco. Personality: Bonded warehouse chemist who hates cargo that pretends to be harmless. Backstory: She inspects temperature-sensitive freight at the airport annex and opened the garment case just long enough to know it was laboratory material. Her report disappeared the same night.. Voice and age cues: 30s Moroccan woman, clear steady voice, clinical and direct. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Casablanca",
+      "witness": "Omar Benkirane",
+      "relativePath": "witnesses/casablanca-omar-benkirane-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/casablanca-omar-benkirane-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Omar Benkirane. Location context: Casablanca, Morocco. Personality: Ramp agent who remembers every client who asks for sterile cabin handling. Backstory: He works special cargo at the Casablanca private terminal and knows which shipments are too sensitive for regular crews. The request around this case stood out immediately.. Voice and age cues: 40s Moroccan man, smooth voice, practical and wary. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Buenos Aires",
+      "relativePath": "cities/03-buenos-aires-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/03-buenos-aires-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Buenos Aires, Argentina. Show a refined Buenos Aires city view with broad avenues, European-influenced facades, modern skyline layers, and southern light that clearly identifies the city. This must read as a premium city-establishing image for Buenos Aires, not a clandestine cold-lab evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Buenos Aires",
+      "relativePath": "panoramas/03-buenos-aires-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/03-buenos-aires-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Buenos Aires, Argentina. Camera placement: eye level inside a private cold lab where Celia Varga opened the garment case and a draft formula set was burned after sale terms were agreed. Show a believable clandestine pharmaceutical cold lab with chilled workstations, incinerator access, sealed cases, and grounded documentary realism. Include these visible clues as physical evidence in the environment: Celia Varga's work position beside the opened garment case; a lab incinerator containing the remains of a burned draft formula set; acquisition paperwork linking House Mistral Export to the network; cold-room handling traces confirming the case was opened here for final sale. Make the space readable and tense without turning it into stylized sci-fi. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Buenos Aires",
+      "witness": "Sofia Alvarez",
+      "relativePath": "witnesses/buenos-aires-sofia-alvarez-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/buenos-aires-sofia-alvarez-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Sofia Alvarez. Location context: Buenos Aires, Argentina. Personality: Pharma compliance lawyer who quietly tracks black-clinic acquisitions. Backstory: She audits import records for experimental compounds and recognized House Mistral Export from prior shell investigations. The antidote formula fits a market she has been mapping for months.. Voice and age cues: 40s Argentine woman, measured legal cadence, sharp and skeptical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Buenos Aires",
+      "witness": "Esteban Quiroga",
+      "relativePath": "witnesses/buenos-aires-esteban-quiroga-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/buenos-aires-esteban-quiroga-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Esteban Quiroga. Location context: Buenos Aires, Argentina. Personality: Warehouse guard who notices when scientific cargo gets handled like contraband. Backstory: He patrols a private cold-storage lab south of the city and watched the final handoff through mirrored glass. He remembers faces better than names.. Voice and age cues: 50s Argentine man, hushed gravelly voice, patient and observant. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Geneva",
+      "relativePath": "cities/04-geneva-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/04-geneva-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Geneva, Switzerland. Show the lakefront with the Jet d Eau, clean quays, Alpine light, restrained luxury, and the unmistakable international polish of Geneva. This must read as an iconic city-establishing image for Geneva, not a private biotech lab or vault interior. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Geneva",
+      "relativePath": "panoramas/04-geneva-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/04-geneva-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Geneva, Switzerland. Camera placement: eye level inside a private biotech authentication lab where the stolen antidote pages were verified and digitized for sale. Show a believable high-end laboratory with secure document scanners, analytical instruments, controlled light, and grounded documentary realism. Include these visible clues as physical evidence in the environment: the antidote pages on an authentication bench; high-value valuation reports; Celia Varga's digitization approval packet; forged Hector Lemaire access credentials left in a rejected tray. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Geneva",
+      "witness": "Dr. Philippe Montand",
+      "relativePath": "witnesses/geneva-dr-philippe-montand-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/geneva-dr-philippe-montand-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dr. Philippe Montand. Location context: Geneva, Switzerland. Personality: Private biotech authenticator who knows when a formula is being priced like a weapon. Backstory: He verifies disputed biomedical intellectual property for discreet clients and immediately recognized the antidote pages as a functional military countermeasure.. Voice and age cues: 60s Swiss man, polished laboratory cadence, clinical and restrained. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Geneva",
+      "witness": "Margot Schmid",
+      "relativePath": "witnesses/geneva-margot-schmid-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/geneva-margot-schmid-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Margot Schmid. Location context: Geneva, Switzerland. Personality: Private vault manager who notices when forged authority tries to look respectable. Backstory: She oversees restricted banking-vault access in Geneva and saw a failed access attempt that was meant to keep Hector Lemaire in the frame.. Voice and age cues: 50s Swiss woman, low banking tone, exact and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Hong Kong",
+      "relativePath": "cities/05-hong-kong-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/05-hong-kong-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Hong Kong. Show Victoria Harbour with dense towers, humid haze, reflective water, neon energy, and the unmistakable high-finance intensity of Hong Kong. This must read as an iconic city-establishing image for Hong Kong, not a hidden brokerage office or formula archive. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Hong Kong",
+      "relativePath": "panoramas/05-hong-kong-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/05-hong-kong-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Hong Kong. Camera placement: eye level inside a discreet biotech brokerage office where Celia Varga's formula was offered to private-clinic and sovereign buyers. Show a believable high-end clandestine office with secure terminals, meeting tables, transfer devices, soft practical lighting, and grounded documentary realism. Include these visible clues as physical evidence in the environment: digitized antidote packets on encrypted drives; bid sheets from clinic and regime buyers; Celia Varga pricing notes built around scarcity; a side-deal packet showing Youssef Bennani was cut out of the real transaction. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Hong Kong",
+      "witness": "Dr. Wei Chen",
+      "relativePath": "witnesses/hong-kong-dr-wei-chen-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/hong-kong-dr-wei-chen-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dr. Wei Chen. Location context: Hong Kong, Hong Kong. Personality: Biotech broker who measures value by how many people are kept outside the room. Backstory: He intermediates high-risk medical intellectual property for buyers who want exclusivity more than treatment capacity.. Voice and age cues: 50s Hong Kong man, smooth deliberate tone, analytical and cold. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Hong Kong",
+      "witness": "Lau Ming",
+      "relativePath": "witnesses/hong-kong-lau-ming-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/hong-kong-lau-ming-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Lau Ming. Location context: Hong Kong, Hong Kong. Personality: Underground medical logistics fixer who knows which middlemen get cut out. Backstory: He arranges discreet chain-of-custody for private clinics and immediately understood that Youssef Bennani was being left in the paperwork but removed from the money.. Voice and age cues: 40s Hong Kong man, careful streetwise cadence, pragmatic and wary. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Sao Paulo",
+      "relativePath": "cities/06-sao-paulo-scene.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/cities/06-sao-paulo-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Sao Paulo, Brazil. Show the immense urban skyline with concrete towers, overpasses, humid light, and the unmistakable scale and pressure of Sao Paulo. This must read as an iconic city-establishing image for Sao Paulo, not an underground clinic or treatment vault. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Sao Paulo",
+      "relativePath": "panoramas/06-sao-paulo-panorama.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/panoramas/06-sao-paulo-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Sao Paulo, Brazil. Camera placement: eye level inside a hidden private-clinic vault where the antidote was turned into elite-only treatment inventory. Show a believable clandestine medical space with climate-controlled pods, secure treatment lockers, encrypted patient systems, and grounded documentary realism. Include these visible clues as physical evidence in the environment: stored antidote lots behind private-access glass; Celia Varga's final clinic authorization; pricing schedules that exclude public hospitals; treatment-allocation files proving the formula was locked into elite access after the sale. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Sao Paulo",
+      "witness": "Dr. Lucia Ferreira",
+      "relativePath": "witnesses/sao-paulo-dr-lucia-ferreira-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/sao-paulo-dr-lucia-ferreira-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dr. Lucia Ferreira. Location context: Sao Paulo, Brazil. Personality: Public-health epidemiologist who notices when medicine is being turned into class privilege. Backstory: She tracks emergency treatment access in Sao Paulo and realized the stolen antidote was being diverted into elite private channels rather than any public system.. Voice and age cues: 50s Brazilian woman, firm thoughtful cadence, incisive and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Sao Paulo",
+      "witness": "Raul Machado",
+      "relativePath": "witnesses/sao-paulo-raul-machado-portrait.jpg",
+      "publicUrl": "/assets/seeds/velvet-mirage/witnesses/sao-paulo-raul-machado-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Raul Machado. Location context: Sao Paulo, Brazil. Personality: Clinic security director who remembers who actually approves the vault doors. Backstory: He oversees restricted access at a luxury private clinic and watched the final authorization chain turn a stolen antidote into a private commodity.. Voice and age cues: 40s Brazilian man, low guarded voice, observant and direct. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+/* ─────────────────────────────────────────────────────────────
+   ATLAS // CIPHER  ·  Theme
+   Travel · Mystery · Operations Room
+   ───────────────────────────────────────────────────────────── */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,800;0,9..144,900;1,9..144,400;1,9..144,600;1,9..144,800;1,9..144,900&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  /* ── Midnight (background tones) ─────────────────────── */
+  --color-midnight-950: #050218;
+  --color-midnight-900: #0a0726;
+  --color-midnight-800: #110c33;
+  --color-midnight-700: #1b1448;
+  --color-midnight-600: #2a1f63;
+
+  /* ── Coral (primary signature) ──────────────────────── */
+  --color-coral-300: #ffb4a3;
+  --color-coral-400: #ff9685;
+  --color-coral-500: #ff7a6b;
+  --color-coral-600: #f25646;
+  --color-coral-700: #c53326;
+
+  /* ── Aqua (secondary, hi-tech) ──────────────────────── */
+  --color-aqua-300: #9bf2e2;
+  --color-aqua-400: #5fe3d0;
+  --color-aqua-500: #2dcab4;
+  --color-aqua-600: #14a18d;
+
+  /* ── Amber / sun (highlight, stamps) ────────────────── */
+  --color-amber-300: #ffd97a;
+  --color-amber-400: #ffc857;
+  --color-amber-500: #f0a92b;
+
+  /* ── Magenta (rare highlight, hot leads) ────────────── */
+  --color-magenta-400: #ff5fb0;
+  --color-magenta-500: #f43f8a;
+
+  /* ── Cream (text, paper) ────────────────────────────── */
+  --color-cream-50:  #faf5e6;
+  --color-cream-100: #f3ead0;
+  --color-cream-200: #e3d6b1;
+  --color-cream-300: #c8b88f;
+
+  /* ── Dust (muted) ───────────────────────────────────── */
+  --color-dust-300: #b9b0d4;
+  --color-dust-400: #8a7eb8;
+  --color-dust-500: #5e537e;
+
+  /* ── Type ───────────────────────────────────────────── */
+  --font-display: 'Fraunces', 'Times New Roman', serif;
+  --font-sans: 'Space Grotesk', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+}
+
+/* Legacy compat (componentes existentes que aún usan vars CSS) */
+:root {
+  --color-bg-primary: var(--color-midnight-900);
+  --color-bg-secondary: var(--color-midnight-800);
+  --color-bg-tertiary: var(--color-midnight-700);
+  --color-accent: var(--color-coral-500);
+  --color-accent-hover: var(--color-coral-400);
+  --color-accent-muted: var(--color-coral-700);
+  --color-teal: var(--color-aqua-400);
+  --color-text-primary: var(--color-cream-50);
+  --color-text-secondary: var(--color-cream-300);
+  --color-text-muted: var(--color-dust-400);
+  --color-border: var(--color-midnight-600);
+  --color-success: var(--color-aqua-400);
+  --color-error: var(--color-coral-500);
+  --color-warning: var(--color-amber-400);
+}
+
+/* NOTE: do NOT add `* { margin:0; padding:0 }` here — it would
+   sit outside @layer utilities and override every Tailwind
+   spacing utility (p-*, m-*, gap-*). Preflight already resets. */
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-midnight-950);
+  color: var(--color-cream-50);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "ss01", "ss02", "cv11";
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--color-midnight-800); }
+::-webkit-scrollbar-thumb { background: var(--color-midnight-600); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-dust-400); }
+
+::selection { background: var(--color-coral-500); color: var(--color-midnight-950); }
+
+/* ─────────────────────────────────────────────────────────────
+   Background layers — Atlas Operations Room
+   ───────────────────────────────────────────────────────────── */
+
+/* Deep nebula gradient */
+.bg-nebula {
+  background:
+    radial-gradient(ellipse at 18% 12%, rgba(244, 63, 138, 0.18), transparent 45%),
+    radial-gradient(ellipse at 82% 78%, rgba(95, 227, 208, 0.14), transparent 50%),
+    radial-gradient(ellipse at 50% 50%, rgba(255, 122, 107, 0.10), transparent 60%),
+    linear-gradient(180deg, #050218 0%, #0a0726 60%, #050218 100%);
+}
+
+/* Latitude / Longitude grid */
+.bg-atlas-grid {
+  background-image:
+    linear-gradient(to right,  rgba(243, 234, 208, 0.045) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(243, 234, 208, 0.045) 1px, transparent 1px);
+  background-size: 80px 80px;
+}
+
+/* Equator + central meridian highlights */
+.bg-equator::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: 50%;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(95, 227, 208, 0.35), transparent);
+}
+.bg-equator::after {
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0; left: 50%;
+  width: 1px;
+  background: linear-gradient(180deg, transparent, rgba(255, 200, 87, 0.28), transparent);
+}
+
+/* Film grain texture */
+.bg-grain {
+  background-image:
+    radial-gradient(rgba(243, 234, 208, 0.04) 1px, transparent 1px),
+    radial-gradient(rgba(255, 122, 107, 0.025) 1px, transparent 1px);
+  background-size: 3px 3px, 7px 7px;
+  background-position: 0 0, 1px 2px;
+}
+
+/* Radar sweep — conic + slow rotation */
+.radar {
+  position: absolute;
+  border-radius: 9999px;
+  background:
+    conic-gradient(from 0deg,
+      rgba(95, 227, 208, 0.28) 0deg,
+      rgba(95, 227, 208, 0) 80deg,
+      rgba(95, 227, 208, 0) 360deg
+    );
+  mask: radial-gradient(circle, black 60%, transparent 100%);
+  -webkit-mask: radial-gradient(circle, black 60%, transparent 100%);
+  animation: radar-spin 9s linear infinite;
+  filter: blur(0.4px);
+}
+@keyframes radar-spin { to { transform: rotate(360deg); } }
+
+/* Radar concentric rings */
+.radar-rings {
+  position: absolute;
+  border-radius: 9999px;
+  border: 1px dashed rgba(95, 227, 208, 0.18);
+  box-shadow:
+    inset 0 0 0 60px transparent,
+    0 0 0 1px rgba(95, 227, 208, 0.08);
+}
+.radar-rings::before,
+.radar-rings::after {
+  content: "";
+  position: absolute;
+  inset: 14%;
+  border-radius: 9999px;
+  border: 1px dashed rgba(95, 227, 208, 0.16);
+}
+.radar-rings::after {
+  inset: 30%;
+  border-color: rgba(95, 227, 208, 0.22);
+}
+
+/* Dragon-radar style blips — bright dots that blink at staggered intervals */
+.radar-blip {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  margin: -3px 0 0 -3px;
+  border-radius: 9999px;
+  background: var(--blip-color, #5fe3d0);
+  box-shadow:
+    0 0 6px 1px var(--blip-color, #5fe3d0),
+    0 0 14px 3px color-mix(in oklab, var(--blip-color, #5fe3d0) 60%, transparent);
+  animation: radar-blink var(--blip-dur, 1.6s) ease-in-out infinite;
+  animation-delay: var(--blip-delay, 0s);
+  will-change: opacity, transform;
+}
+.radar-blip::after {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border-radius: 9999px;
+  border: 1px solid var(--blip-color, #5fe3d0);
+  opacity: 0;
+  animation: radar-ping var(--blip-dur, 1.6s) ease-out infinite;
+  animation-delay: var(--blip-delay, 0s);
+}
+.radar-blip--sm { width: 4px; height: 4px; margin: -2px 0 0 -2px; }
+.radar-blip--lg { width: 12px; height: 12px; margin: -6px 0 0 -6px; }
+
+@keyframes radar-blink {
+  0%, 100% { opacity: 0.25; transform: scale(0.85); }
+  45%      { opacity: 1;    transform: scale(1.1); }
+  70%      { opacity: 0.6;  transform: scale(1); }
+}
+@keyframes radar-ping {
+  0%   { opacity: 0.55; transform: scale(0.6); }
+  80%  { opacity: 0;    transform: scale(2.2); }
+  100% { opacity: 0;    transform: scale(2.2); }
+}
+
+/* Compass rose — pure CSS */
+.compass {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 9999px;
+  border: 1px solid rgba(243, 234, 208, 0.25);
+}
+.compass::before,
+.compass::after {
+  content: "";
+  position: absolute;
+  background: rgba(243, 234, 208, 0.5);
+}
+.compass::before { top: 0; bottom: 0; left: 50%; width: 1px; }
+.compass::after  { left: 0; right: 0; top: 50%; height: 1px; }
+
+/* Stamp-style frames (passport) */
+.stamp {
+  border: 2.5px double currentColor;
+  padding: 0.4rem 0.95rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.02);
+}
+.stamp-circle {
+  border: 2.5px double currentColor;
+  border-radius: 9999px;
+  width: 7rem;
+  height: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, 0.015);
+}
+
+/* Manila / dossier card */
+.dossier {
+  background:
+    linear-gradient(135deg, rgba(243, 234, 208, 0.04), rgba(243, 234, 208, 0.01) 60%),
+    rgba(17, 12, 51, 0.6);
+  border: 1px solid rgba(243, 234, 208, 0.12);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* Corner brackets (crosshair) */
+.brackets {
+  position: relative;
+}
+.brackets::before,
+.brackets::after,
+.brackets > .b-tl,
+.brackets > .b-tr,
+.brackets > .b-bl,
+.brackets > .b-br { display: none; }
+
+/* Tick line decorator (— CASE FILE —) */
+.tick-line::before,
+.tick-line::after {
+  content: "";
+  display: inline-block;
+  width: 2.5rem;
+  height: 1px;
+  background: currentColor;
+  vertical-align: middle;
+  margin: 0 0.85rem;
+  opacity: 0.5;
+}
+
+/* CTA "envelope" button */
+.btn-coral {
+  position: relative;
+  isolation: isolate;
+  transition: transform 0.25s cubic-bezier(.2,.8,.2,1), box-shadow 0.25s;
+}
+.btn-coral::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(135deg, var(--color-coral-400) 0%, var(--color-coral-600) 60%, var(--color-magenta-500) 100%);
+  z-index: -1;
+}
+.btn-coral:hover {
+  transform: translateY(-2px);
+  box-shadow:
+    0 18px 50px -12px rgba(255, 122, 107, 0.55),
+    0 0 0 1px rgba(255, 180, 163, 0.45) inset,
+    0 0 60px -10px rgba(244, 63, 138, 0.35);
+}
+.btn-coral:active { transform: translateY(0); }
+
+/* ─────────────────────────────────────────────────────────────
+   Animations
+   ───────────────────────────────────────────────────────────── */
+
+@keyframes blink-dot {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0.2; }
+}
+.animate-blink { animation: blink-dot 1.4s ease-in-out infinite; }
+
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+.animate-ticker { animation: ticker 45s linear infinite; }
+
+@keyframes float-stamp {
+  0%, 100% { transform: translateY(0) rotate(var(--tilt, -6deg)); }
+  50%      { transform: translateY(-6px) rotate(var(--tilt, -6deg)); }
+}
+.animate-float { animation: float-stamp 5s ease-in-out infinite; }
+
+@keyframes sweep {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+.animate-sweep { animation: sweep 2.6s ease-in-out infinite; }
+
+@keyframes scan-y {
+  0%   { transform: translateY(-100%); opacity: 0; }
+  10%  { opacity: 1; }
+  90%  { opacity: 1; }
+  100% { transform: translateY(100vh); opacity: 0; }
+}
+.animate-scan { animation: scan-y 7s linear infinite; }
+
+/* Total cycle 3.2s: ~150ms fade-in, ~1.5s visible, ~300ms fade-out, ~1.25s gap (matches old gap). */
+@keyframes word-cycle {
+  0%        { opacity: 0; transform: translateY(12px); }
+  5%        { opacity: 1; transform: translateY(0); }
+  52%       { opacity: 1; transform: translateY(0); }
+  62%       { opacity: 0; transform: translateY(-12px); }
+  100%      { opacity: 0; transform: translateY(-12px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 0.55; }
+  50%      { opacity: 1; }
+}
+.animate-pulse-soft { animation: pulse-soft 2.4s ease-in-out infinite; }
+
+@keyframes spin-slow { to { transform: rotate(360deg); } }
+.animate-spin-slow { animation: spin-slow 30s linear infinite; }
+
+/* Globe wireframe (background hero) */
+.globe-wire {
+  position: absolute;
+  border-radius: 9999px;
+  border: 1px solid rgba(95, 227, 208, 0.22);
+  background:
+    repeating-linear-gradient(0deg,
+      transparent 0, transparent 28px,
+      rgba(95, 227, 208, 0.10) 28px, rgba(95, 227, 208, 0.10) 29px),
+    repeating-linear-gradient(90deg,
+      transparent 0, transparent 28px,
+      rgba(255, 200, 87, 0.08) 28px, rgba(255, 200, 87, 0.08) 29px);
+  box-shadow:
+    inset 80px 0 120px -40px rgba(244, 63, 138, 0.18),
+    inset -60px -30px 100px -20px rgba(95, 227, 208, 0.18),
+    0 0 80px -10px rgba(244, 63, 138, 0.25);
+  mask: radial-gradient(circle at 50% 50%, black 62%, transparent 100%);
+  -webkit-mask: radial-gradient(circle at 50% 50%, black 62%, transparent 100%);
+  /* Continuous Lissajous-style drift — slow, organic, never exactly centered */
+  animation: globe-orbit 160s ease-in-out infinite, globe-rotate 60s linear infinite;
+  transform-origin: center center;
+  will-change: transform;
+}
+
+/* Slow visual rotation of the wireframe pattern */
+@keyframes globe-rotate {
+  to { background-position: 200px 0, 0 200px; }
+}
+
+/* Lissajous-like figure-8 drift: x and y oscillate on different periods so the
+   path never repeats the same line and never lands exactly at (0,0). It glides
+   slowly past the center at slightly different angles each loop. */
+@keyframes globe-orbit {
+  0%   { transform: translate(-50%, -50%) translate(0,      40%); }
+  10%  { transform: translate(-50%, -50%) translate(22%,    28%); }
+  20%  { transform: translate(-50%, -50%) translate(38%,    8%); }
+  30%  { transform: translate(-50%, -50%) translate(30%,   -22%); }
+  40%  { transform: translate(-50%, -50%) translate(8%,    -38%); }
+  50%  { transform: translate(-50%, -50%) translate(-18%,  -32%); }
+  60%  { transform: translate(-50%, -50%) translate(-36%,  -10%); }
+  70%  { transform: translate(-50%, -50%) translate(-32%,   18%); }
+  80%  { transform: translate(-50%, -50%) translate(-12%,   34%); }
+  90%  { transform: translate(-50%, -50%) translate(10%,    38%); }
+  100% { transform: translate(-50%, -50%) translate(0,      40%); }
+}
+
+/* Travel HUD ─ plane glides across the dotted route */
+@keyframes flightPath {
+  0%   { left: 0%;   transform: translateX(0)     rotate(8deg); }
+  50%  { transform: translateX(-50%) rotate(0deg); }
+  100% { left: 100%; transform: translateX(-100%) rotate(-8deg); }
+}
+
+@keyframes progressFill {
+  from { width: 0%; }
+  to   { width: 100%; }
+}
+
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translate(-50%, -8px); }
+  to   { opacity: 1; transform: translate(-50%, 0); }
+}
+
+@keyframes slideInDown {
+  from { opacity: 0; transform: translateY(-12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.animate-slide-in-down { animation: slideInDown 220ms ease-out both; }
+
+@keyframes shrinkBar {
+  from { transform: scaleX(1); }
+  to   { transform: scaleX(0); }
+}
+.animate-shrink-bar { transform-origin: left center; animation: shrinkBar linear forwards; }
+
+@keyframes warrantGlow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(255, 122, 107, 0.55), 0 0 18px -2px rgba(255, 122, 107, 0.35); }
+  50%      { box-shadow: 0 0 0 4px rgba(255, 122, 107, 0.0),  0 0 28px 2px rgba(255, 122, 107, 0.55); }
+}
+.animate-warrant-glow { animation: warrantGlow 2s ease-in-out infinite; }
+
+@keyframes failureReveal {
+  from {
+    opacity: 0;
+    transform: translateY(24px) scale(0.985);
+    filter: blur(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+.failure-reveal {
+  opacity: 0;
+  animation: failureReveal 760ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.failure-reveal-1 { animation-delay: 80ms; }
+.failure-reveal-2 { animation-delay: 180ms; }
+.failure-reveal-3 { animation-delay: 320ms; }
+.failure-reveal-4 { animation-delay: 460ms; }
+
+@keyframes failureOrbA {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
+  50% { transform: translate3d(24px, 18px, 0) scale(1.08); }
+}
+
+@keyframes failureOrbB {
+  0%, 100% { transform: translate3d(0, 0, 0) scale(1); }
+  50% { transform: translate3d(-28px, -22px, 0) scale(1.05); }
+}
+
+.failure-orb-a { animation: failureOrbA 14s ease-in-out infinite; }
+.failure-orb-b { animation: failureOrbB 18s ease-in-out infinite; }
+
+.failure-sweep {
+  background:
+    linear-gradient(115deg,
+      transparent 18%,
+      rgba(255, 122, 107, 0.05) 38%,
+      rgba(243, 234, 208, 0.05) 50%,
+      rgba(95, 227, 208, 0.04) 62%,
+      transparent 82%);
+  transform: translateX(-18%);
+  animation: failureSweep 7.5s linear infinite;
+}
+
+@keyframes failureSweep {
+  0% { transform: translateX(-18%); opacity: 0.18; }
+  50% { opacity: 0.28; }
+  100% { transform: translateX(18%); opacity: 0.18; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .failure-reveal,
+  .failure-orb-a,
+  .failure-orb-b,
+  .failure-sweep,
+  .animate-warrant-glow {
+    animation: none !important;
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+/* Coordinate ticker text */
+.mono-tick {
+  font-family: var(--font-mono);
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+/* Vignette */
+.vignette::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, transparent 50%, rgba(5, 2, 24, 0.85) 100%);
+  pointer-events: none;
+}

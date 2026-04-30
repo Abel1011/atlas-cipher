@@ -1,0 +1,248 @@
+{
+  "templateId": "seed-neon-embassy",
+  "slug": "neon-embassy",
+  "title": "The Neon Embassy",
+  "generatedAt": "2026-04-30T02:01:24.203Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Seoul",
+      "relativePath": "cities/01-seoul-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/01-seoul-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Seoul, South Korea. Show the Seoul skyline with Namsan Tower, layered glass towers, dense neighborhoods, neon reflections, and the fast modern energy that makes the city immediately identifiable. This must read as an iconic city-establishing image for Seoul, not an embassy service corridor or evacuation scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Seoul",
+      "relativePath": "panoramas/01-seoul-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/01-seoul-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Seoul, South Korea. Camera placement: eye level inside the embassy annex service corridor where the fire alarm was triggered and the ceramic cylinder was swapped during evacuation. Show a believable back-of-house diplomatic corridor with alarm hardware, AV cases, garment bags, staff signage mounts without readable text, and grounded realism. Include these visible clues as physical evidence in the environment: a staff alarm console used instead of the public foyer trigger; a courier pass stamped for Fukuoka clipped to an empty garment bag; Julian March's archive catalogue left on a service desk; floor marks showing where a ceramic cylinder was switched into a matte gray canister during the three-minute evacuation window. Make the clues visible but natural to the corridor. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Seoul",
+      "witness": "Han So-yeon",
+      "relativePath": "witnesses/seoul-han-so-yeon-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/seoul-han-so-yeon-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Han So-yeon. Location context: Seoul, South Korea. Personality: Embassy protocol officer obsessed with timings and access rules. Backstory: She coordinated guest movement through the annex and rebuilt the evacuation timeline by memory after the drill. The missing cylinder has put her clearance under review.. Voice and age cues: 30s Korean woman, precise and composed, clipped official cadence. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Seoul",
+      "witness": "Tomas Vega",
+      "relativePath": "witnesses/seoul-tomas-vega-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/seoul-tomas-vega-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Tomas Vega. Location context: Seoul, South Korea. Personality: Freelance AV contractor who jokes when he gets nervous. Backstory: He was wiring the showcase stage and kept drifting through the service areas looking for spare power. He notices small prop swaps because stage work trained him to read cases and labels quickly.. Voice and age cues: 40s Spanish man, breezy delivery, anxious humor under the surface. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Fukuoka",
+      "relativePath": "cities/02-fukuoka-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/02-fukuoka-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Fukuoka, Japan. Show Hakata Bay with ferries, sleek waterfront towers, clean terminal infrastructure, and humid evening light that makes Fukuoka instantly recognizable as a harbor city. This must read as a city-establishing image for Fukuoka, not a bonded intake evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Fukuoka",
+      "relativePath": "panoramas/02-fukuoka-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/02-fukuoka-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Fukuoka, Japan. Camera placement: eye level inside the bonded intake office where dispatcher checks reveal the diplomatic cylinder never actually cleared the terminal. Show a believable ferry-terminal intake room with manifest shelves, bonded lockers, sealed counters, and documentary realism. Include these visible clues as physical evidence in the environment: no diplomatic canister matching the cipher cylinder in the intake flow; a courier pass number matching a canceled rehearsal shipment; props and lighting reels using the same code that should have belonged to diplomatic cargo; dispatcher review materials showing the shipment existed only on paper. Keep the evidence quiet and procedural rather than theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Fukuoka",
+      "witness": "Emi Takahashi",
+      "relativePath": "witnesses/fukuoka-emi-takahashi-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/fukuoka-emi-takahashi-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Emi Takahashi. Location context: Fukuoka, Japan. Personality: Bonded ferry dispatcher who distrusts glamorous cargo stories. Backstory: She manages high-priority manifests moving through Hakata and remembers every diplomatic claim that arrives without the paperwork discipline to support it.. Voice and age cues: 30s Japanese woman, precise ferry-office tone, cool under pressure. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Fukuoka",
+      "witness": "Kenji Mori",
+      "relativePath": "witnesses/fukuoka-kenji-mori-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/fukuoka-kenji-mori-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Kenji Mori. Location context: Fukuoka, Japan. Personality: Customs warehouse supervisor who files ghost shipments with visible contempt. Backstory: He audits sealed airside transfers and has learned that fake diplomatic urgency usually collapses under one direct question about the cargo weight.. Voice and age cues: 50s Japanese man, gravelly quiet voice, methodical and unimpressed. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Bangkok",
+      "relativePath": "cities/03-bangkok-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/03-bangkok-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Bangkok, Thailand. Show the Chao Phraya riverfront with Wat Arun rising over the water, humid tropical light, layered traffic, and Bangkok's unmistakable mix of temple skyline and modern density. This must read as an iconic city-establishing image for Bangkok, not a courier intake evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Bangkok",
+      "relativePath": "panoramas/03-bangkok-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/03-bangkok-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Bangkok, Thailand. Camera placement: eye level inside a bonded courier intake staging area where the gray canister was re-tagged from Bangkok to Valletta. Show a believable tropical freight handoff zone with bonded racks, handling cages, refrigerated pouches, and procedural logistics detail. Include these visible clues as physical evidence in the environment: a gray canister re-tagged from Bangkok to Valletta; a pouch weighed twice because handling instructions did not match declared contents; a diplomatic override template matching an emergency drill protocol once signed by Arun Das; staging paperwork that treats Bangkok as an operational decoy rather than the real destination. Make the clues legible without breaking realism. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Bangkok",
+      "witness": "Nisa Rattanakosin",
+      "relativePath": "witnesses/bangkok-nisa-rattanakosin-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/bangkok-nisa-rattanakosin-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Nisa Rattanakosin. Location context: Bangkok, Thailand. Personality: Sharp manifest clerk who trusts paperwork more than stories. Backstory: She works bonded courier intake at the riverside freight terminal and remembers documents that have been altered twice. Her supervisor told her to ignore this shipment, which only made her memorize it better.. Voice and age cues: 30s Thai woman, calm and exact, dry professional tone. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Bangkok",
+      "witness": "Arun Preecha",
+      "relativePath": "witnesses/bangkok-arun-preecha-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/bangkok-arun-preecha-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Arun Preecha. Location context: Bangkok, Thailand. Personality: River dock porter with a talent for overhearing rushed plans. Backstory: He works night transfers between bonded trucks and private air strips. He pretends not to listen, which is why smugglers keep talking around him.. Voice and age cues: 20s Thai man, quick voice, alert and slightly amused. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Singapore",
+      "relativePath": "cities/04-singapore-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/04-singapore-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Singapore, Singapore. Show a luminous Marina Bay skyline at dusk with waterfront reflections, clean high-rise geometry, tropical haze, and the controlled precision that makes Singapore instantly identifiable. This must read as a city-establishing image for Singapore, not a cargo decoy scene or cold room interior. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Singapore",
+      "relativePath": "panoramas/04-singapore-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/04-singapore-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Singapore, Singapore. Camera placement: eye level inside a high-security cold room where diplomatic cinema canisters were supposedly staged but no real offload ever occurred. Show a believable bonded cold-storage facility with sealed racks, flight-handling carts, insulated doors, and precise logistics detail. Include these visible clues as physical evidence in the environment: no diplomatic cinema canister ever entering the cold room from Bangkok; a private jet routing notice naming Singapore as alternate before continuing onward without offloading; chatter notes asking whether the route name would still appear in customs records; handling space prepared for cargo that never physically arrived. Keep the space calm and procedural, with evidence embedded in the workflow. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Singapore",
+      "witness": "Priya Mehta",
+      "relativePath": "witnesses/singapore-priya-mehta-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/singapore-priya-mehta-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Priya Mehta. Location context: Singapore, Singapore. Personality: Bonded storage supervisor who measures panic by how fast people misuse urgent labels. Backstory: She oversees high-security storage turnover at Changi freight and knows when a client wants a route named in the system without ever paying to use it.. Voice and age cues: 40s Singaporean woman, efficient clipped voice, analytical and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Singapore",
+      "witness": "Hassan Ong",
+      "relativePath": "witnesses/singapore-hassan-ong-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/singapore-hassan-ong-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Hassan Ong. Location context: Singapore, Singapore. Personality: Charter coordinator who notices when alternate routes are theater. Backstory: He files last-minute private flight revisions and has grown very good at spotting itineraries designed to leak rumors rather than move cargo.. Voice and age cues: 30s Singaporean man, polished aviation tone, lightly sardonic. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Valletta",
+      "relativePath": "cities/05-valletta-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/05-valletta-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Valletta, Malta. Show the Grand Harbour fortifications and honey-colored stone facing the sea, with bright Mediterranean light and the unmistakable geometry of Valletta's harbor city profile. This must read as an iconic city-establishing image for Valletta, not a reroute archive berth evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Valletta",
+      "relativePath": "panoramas/05-valletta-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/05-valletta-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Valletta, Malta. Camera placement: eye level inside a converted archive berth where Helios Meridian rerouted the keys before the Dubrovnik booking. Show a believable fortified harbor storage space with marine stone, insurance files, courier seals, and controlled low-light realism. Include these visible clues as physical evidence in the environment: Helios Meridian reroute paperwork pointing to a private archive berth in Dubrovnik booked by Laila Voss; a broker note refusing partial delivery and demanding the full rotation schedule; duplicate courier seals burned after the harbor exchange; handling materials showing the stop was operational rather than final. Let the space feel like a real harbor archive first, with the clues nested inside it. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Valletta",
+      "witness": "Greta Camilleri",
+      "relativePath": "witnesses/valletta-greta-camilleri-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/valletta-greta-camilleri-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Greta Camilleri. Location context: Valletta, Malta. Personality: Insurance analyst who quietly follows shell companies to their real owners. Backstory: She reviews marine cargo policies for a Valletta underwriter and keeps her own shadow notes on suspicious logistics firms. Helios Meridian crossed her desk three times in one month.. Voice and age cues: 40s Maltese woman, low steady voice, analytical and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Valletta",
+      "witness": "Noel Attard",
+      "relativePath": "witnesses/valletta-noel-attard-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/valletta-noel-attard-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Noel Attard. Location context: Valletta, Malta. Personality: Bastion watchman who notices the people who do not belong. Backstory: He works overnight security at a converted archive overlooking the harbor. He knows regular delivery crews by face and spots outsiders immediately.. Voice and age cues: 50s Maltese man, roughened voice, patient and observant. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Naples",
+      "relativePath": "cities/06-naples-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/06-naples-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Naples, Italy. Show the Bay of Naples with Vesuvius in the distance, waterfront density, warm stone facades, and the layered southern urban energy that instantly identifies Naples. This must read as a premium city-establishing image for Naples, not as a fake bonded evidence stop. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Naples",
+      "relativePath": "panoramas/06-naples-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/06-naples-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Naples, Italy. Camera placement: eye level inside a bonded intake floor where a fake consignment note naming Naples was circulated only to create route noise. Show a believable warehouse intake area with bonded cages, seal checks, consignment desks, and documentary realism. Include these visible clues as physical evidence in the environment: no cipher cylinder ever clearing the Naples bonded floor; a caller asking about temporary storage without booking a slot; a fake consignment note carrying a dead seal serial; handling space prepared for a shipment that customs staff never physically received. Make the absence of cargo part of the evidence without making the image empty or abstract. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Naples",
+      "witness": "Giulia Serra",
+      "relativePath": "witnesses/naples-giulia-serra-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/naples-giulia-serra-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Giulia Serra. Location context: Naples, Italy. Personality: Harbor warehouse clerk who can smell panic on a consignment note. Backstory: She supervises bonded intake on the Naples waterfront and has seen enough fake urgency to know when a route rumor matters less than the missing cargo behind it.. Voice and age cues: 40s Italian woman, fast harbor-office cadence, skeptical and practical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Naples",
+      "witness": "Matteo Greco",
+      "relativePath": "witnesses/naples-matteo-greco-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/naples-matteo-greco-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Matteo Greco. Location context: Naples, Italy. Personality: Document runner who survives by noticing dead serials before police do. Backstory: He ferries paperwork between brokers and port offices and knows when a stamped consignment note was printed only to be seen, not used.. Voice and age cues: 20s Italian man, energetic streetwise delivery, always half-whispering. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Dubrovnik",
+      "relativePath": "cities/07-dubrovnik-scene.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/cities/07-dubrovnik-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Dubrovnik, Croatia. Show the fortified old city walls above the Adriatic with bright limestone, blue water, terracotta roofs, and the unmistakable profile of Dubrovnik from the sea. This must read as an iconic city-establishing image for Dubrovnik, not the archive vault evidence scene itself. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Dubrovnik",
+      "relativePath": "panoramas/07-dubrovnik-panorama.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/panoramas/07-dubrovnik-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Dubrovnik, Croatia. Camera placement: eye level inside the archive vault where Laila Voss booked a midnight viewing for the cipher cylinder without creating a local inventory entry. Show a believable fortified archive chamber with stone walls, sealed cases, marine humidity control, and quiet Adriatic night realism. Include these visible clues as physical evidence in the environment: Laila Voss's midnight viewing reservation materials; handling traces showing the broker insisted on no local inventory entry; a waterproof case linked to Petar Milic's harbor transfer; Helios Meridian paperwork connecting Dubrovnik to the final handoff. Keep the room believable and elegant while making the evidence inspectable. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dubrovnik",
+      "witness": "Ana Kovacevic",
+      "relativePath": "witnesses/dubrovnik-ana-kovacevic-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/dubrovnik-ana-kovacevic-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ana Kovacevic. Location context: Dubrovnik, Croatia. Personality: Archive conservator who catalogs high-value lies as carefully as artifacts. Backstory: She maintains a fortified private archive outside Dubrovnik and knows which clients demand secrecy because they are protecting history and which are merely hiding money.. Voice and age cues: 40s Croatian woman, measured cultured voice, guarded and intelligent. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dubrovnik",
+      "witness": "Petar Milic",
+      "relativePath": "witnesses/dubrovnik-petar-milic-portrait.jpg",
+      "publicUrl": "/assets/seeds/neon-embassy/witnesses/dubrovnik-petar-milic-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Petar Milic. Location context: Dubrovnik, Croatia. Personality: Harbor launch captain who trusts tides more than rich clients. Backstory: He runs discreet night transfers along the old harbor and remembers every passenger who thinks offshore darkness makes them invisible.. Voice and age cues: 50s Croatian man, weathered harbor voice, blunt and steady. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    }
+  ]
+}

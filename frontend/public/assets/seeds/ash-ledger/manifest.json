@@ -1,0 +1,180 @@
+{
+  "templateId": "seed-ash-ledger",
+  "slug": "ash-ledger",
+  "title": "The Ash Ledger",
+  "generatedAt": "2026-04-30T02:36:31.296Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Rome",
+      "relativePath": "cities/01-rome-scene.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/cities/01-rome-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Rome, Italy. Show a grand view over Rome toward St Peter's dome with layered historic rooftops, warm stone, cypress silhouettes, and the dense architectural memory that makes the city instantly recognizable. This must read as an iconic city-establishing image for Rome, not as a vault corridor or direct crime scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Rome",
+      "relativePath": "panoramas/01-rome-panorama.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/panoramas/01-rome-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Rome, Italy. Camera placement: eye level inside the Vatican annex restoration vault corridor at the west cloister and maintenance tunnel junction where the false fire alarm began. Show a believable sacred conservation environment with sealed humidity cases, heavy doors, old stone, modern vault hardware, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a broken wax seal fragment carrying a Georgian shipping crest; an abandoned humidity case with courier handling marks; a maintenance tunnel access gate with a recently disturbed lock; a vault reader showing signs that two access cards were cloned within seconds. Keep the scene solemn and believable rather than melodramatic. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Rome",
+      "witness": "Sister Lucia Ferretti",
+      "relativePath": "witnesses/rome-sister-lucia-ferretti-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/rome-sister-lucia-ferretti-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Sister Lucia Ferretti. Location context: Rome, Italy. Personality: Composed conservator with a forensic eye for damaged objects. Backstory: She supervises manuscript restoration inside the Vatican annex and noticed what did not belong after the evacuation.. Voice and age cues: 50s Italian woman, calm, measured, gently authoritative. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Rome",
+      "witness": "Paolo Conti",
+      "relativePath": "witnesses/rome-paolo-conti-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/rome-paolo-conti-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Paolo Conti. Location context: Rome, Italy. Personality: Retired security consultant who trusts timestamps over testimony. Backstory: He once worked art-crime cases for the Carabinieri and now advises the restoration vault on access control.. Voice and age cues: 60s Italian man, gravelly, skeptical, economical with words. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Tbilisi",
+      "relativePath": "cities/02-tbilisi-scene.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/cities/02-tbilisi-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Tbilisi, Georgia. Show the old town climbing toward Narikala Fortress with sulfur-bath domes, balconies over the river, warm evening light, and the layered texture that makes Tbilisi unmistakable. This must read as an iconic city-establishing image for Tbilisi, not a dockside transfer zone. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Tbilisi",
+      "relativePath": "panoramas/02-tbilisi-panorama.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/panoramas/02-tbilisi-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Tbilisi, Georgia. Camera placement: eye level inside a river dock loading area beneath a private wine cellar where the humidity-controlled trunk is staged before Black Sea transfer. Show a believable cargo handoff zone with cellar access, rolling pallets, guarded climate-control containers, and documentary-grade realism. Include these visible clues as physical evidence in the environment: a humidity-controlled trunk linked to the ledger loading; photographic setup traces showing the ledger was documented inside the cellar; Sorin Dobre's supervision station beside the dock ramp; an argument scene where Father Matteo Orsini drew attention but never touched the cargo. Let the evidence sit naturally inside a real logistics environment. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tbilisi",
+      "witness": "Nino Arveladze",
+      "relativePath": "witnesses/tbilisi-nino-arveladze-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/tbilisi-nino-arveladze-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Nino Arveladze. Location context: Tbilisi, Georgia. Personality: Precise auction cataloguer who remembers provenance details. Backstory: She catalogs private cellar sales in Old Tbilisi and saw the ledger before it changed hands again.. Voice and age cues: 30s Georgian woman, clear diction, alert and slightly impatient. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tbilisi",
+      "witness": "Giorgi Dekanoidze",
+      "relativePath": "witnesses/tbilisi-giorgi-dekanoidze-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/tbilisi-giorgi-dekanoidze-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Giorgi Dekanoidze. Location context: Tbilisi, Georgia. Personality: River port mechanic who notices cargo that should not need climate control. Backstory: He services loading cranes along the river docks and saw the suspicious trunk leave under guard.. Voice and age cues: 40s Georgian man, rough voice, practical, speaks with clipped certainty. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Cartagena",
+      "relativePath": "cities/03-cartagena-scene.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/cities/03-cartagena-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Cartagena, Colombia. Show the walled old city meeting the Caribbean with colonial facades, ramparts, humid sunset light, and a harbor atmosphere that instantly identifies Cartagena. This must read as a premium city-establishing image for Cartagena, not a yacht transfer evidence scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Cartagena",
+      "relativePath": "panoramas/03-cartagena-panorama.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/panoramas/03-cartagena-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Cartagena, Colombia. Camera placement: eye level at a private yacht harbor just outside the main port where the case is switched onto Saint Irina in open water transfer conditions. Show a believable high-end harbor exchange with launch ramps, guarded slips, humid night air, and maritime documentary realism. Include these visible clues as physical evidence in the environment: transfer marks linking the ledger case to a yacht named Saint Irina; a false manifest naming Father Matteo Orsini left out as distraction; broker paperwork pointing to Romanian banking authentication rather than the visible local accounts; a launch-side switching point beyond the normal harbor mouth. Keep the harbor elegant but clearly investigable. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Cartagena",
+      "witness": "Camila Restrepo",
+      "relativePath": "witnesses/cartagena-camila-restrepo-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/cartagena-camila-restrepo-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Camila Restrepo. Location context: Cartagena, Colombia. Personality: Sharp provenance researcher with quiet underworld access. Backstory: She consults for private museums and often verifies objects that should never reach public catalogues.. Voice and age cues: 30s Colombian woman, low confident tone, meticulous and cool. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Cartagena",
+      "witness": "Tomas Ibarra",
+      "relativePath": "witnesses/cartagena-tomas-ibarra-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/cartagena-tomas-ibarra-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Tomas Ibarra. Location context: Cartagena, Colombia. Personality: Harbor pilot informant who monetizes every rumor. Backstory: He guides vessels into Cartagena Bay and sells tips about suspicious cargo movements after hours.. Voice and age cues: 40s Colombian man, quick and sly, warm coastal accent. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Athens",
+      "relativePath": "cities/04-athens-scene.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/cities/04-athens-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Athens, Greece. Show the Acropolis rising above the city with pale stone, layered rooftops, Mediterranean light, and the unmistakable historic-civic profile of Athens. This must read as an iconic city-establishing image for Athens, not a bonded art-storage decoy or paperwork trap. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Athens",
+      "relativePath": "panoramas/04-athens-panorama.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/panoramas/04-athens-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Athens, Greece. Camera placement: eye level inside a Piraeus bonded art-storage intake room that was booked as cover without ever receiving the ledger case. Show a believable port-adjacent secure storage area with intake desks, rolling cages, customs folders, empty humidity slots, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a canceled storage booking under Celeste Moreau's name; an empty humidity-controlled intake berth; a copied manifest naming Father Matteo Orsini; a customs chatter log showing Athens was seeded as route noise rather than a real stop. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Athens",
+      "witness": "Dora Pappas",
+      "relativePath": "witnesses/athens-dora-pappas-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/athens-dora-pappas-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dora Pappas. Location context: Athens, Greece. Personality: Bonded art registrar who notices when a storage story is built only to be repeated. Backstory: She manages high-value intake near Piraeus and logged the phantom booking that made Athens look relevant without ever receiving the ledger case.. Voice and age cues: 40s Greek woman, brisk registrar tone, skeptical and exact. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Athens",
+      "witness": "Leon Vassilis",
+      "relativePath": "witnesses/athens-leon-vassilis-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/athens-leon-vassilis-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Leon Vassilis. Location context: Athens, Greece. Personality: Restoration runner who can spot a copied manifest at a glance. Backstory: He ferries documents and sealed parcels between workshops and bonded depots and immediately recognized the Athens paperwork as theater.. Voice and age cues: 30s Greek man, quick practical cadence, alert and lightly cynical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Valletta",
+      "relativePath": "cities/05-valletta-scene.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/cities/05-valletta-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Valletta, Malta. Show the Grand Harbour fortifications, honey-colored limestone, bright Mediterranean water, and the compact historic geometry that makes Valletta instantly recognizable. This must read as an iconic city-establishing image for Valletta, not as a freeport vault evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Valletta",
+      "relativePath": "panoramas/05-valletta-panorama.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/panoramas/05-valletta-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Valletta, Malta. Camera placement: eye level inside a private sealed-storage vault where Saint Irina Holdings held sacred pieces tied to the stolen ledger. Show a believable high-security freeport chamber with climate-controlled cases, vault doors, discreet viewing tables, marine-stone architecture, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a humidity case from Cartagena on a private inspection stand; Saint Irina Holdings registry paperwork; Sorin Dobre's signed buyer-window approval forms; reliquary inventory matching entries from the Vatican ledger. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Valletta",
+      "witness": "Don Carmelino Camilleri",
+      "relativePath": "witnesses/valletta-don-carmelino-camilleri-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/valletta-don-carmelino-camilleri-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Don Carmelino Camilleri. Location context: Valletta, Malta. Personality: Private vault keeper who remembers every patron who wants holiness laundered into wealth. Backstory: He oversees discreet sealed storage in Valletta and keeps mental records of clients who treat sacred pieces like offshore inventory.. Voice and age cues: 70s Maltese man, low ceremonial voice, patient and sharp. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Valletta",
+      "witness": "Father Victor Agius",
+      "relativePath": "witnesses/valletta-father-victor-agius-portrait.jpg",
+      "publicUrl": "/assets/seeds/ash-ledger/witnesses/valletta-father-victor-agius-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Father Victor Agius. Location context: Valletta, Malta. Personality: Church antiquities liaison who hates watching sacred objects become collateral. Backstory: He advises local collectors and freeport custodians on ecclesiastical provenance disputes and quietly tracks who is laundering devotion into private inventory.. Voice and age cues: 50s Maltese man, reflective measured cadence, weary and exacting. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    }
+  ]
+}

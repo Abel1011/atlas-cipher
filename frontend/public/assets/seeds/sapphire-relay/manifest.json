@@ -1,0 +1,180 @@
+{
+  "templateId": "seed-sapphire-relay",
+  "slug": "sapphire-relay",
+  "title": "The Sapphire Relay",
+  "generatedAt": "2026-04-30T02:29:17.184Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Singapore",
+      "relativePath": "cities/01-singapore-scene.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/cities/01-singapore-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Singapore, Singapore. Show an instantly recognizable Marina Bay skyline at blue hour with the bayfront towers, Helix Bridge geometry, clean glass reflections, humid tropical air, and dense contemporary urban energy. This must read as a premium city-establishing image for Singapore rather than a convention back corridor or cargo dock. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Singapore",
+      "relativePath": "panoramas/01-singapore-panorama.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/panoramas/01-singapore-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Singapore, Singapore. Camera placement: eye level inside the Helix Defense Expo loading dock where catering carts stage beside AV equipment bays under exposed sprinkler pipes. Show a believable backstage logistics zone beneath a high-end defense expo, with wet concrete, service access lanes, and grounded documentary realism. Include these visible clues as physical evidence in the environment: portable jammer residue marks near loading bay six electrical panels; a silver equipment case with expo handling scuffs; a catering cart marked TNG-14 with a modified inner compartment; a dispatcher desk with a radio headset and handwritten Tangier freeport notes. Make the clues readable at a glance without adding any text overlays or interface graphics. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Singapore",
+      "witness": "Tan Mei Lin",
+      "relativePath": "witnesses/singapore-tan-mei-lin-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/singapore-tan-mei-lin-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Tan Mei Lin. Location context: Singapore, Singapore. Personality: Exacting operations director who notices procedural anomalies. Backstory: She ran floor operations for the Helix Defense Expo and now faces an internal inquiry over the vanished prototype.. Voice and age cues: 30s Singaporean woman, clipped professional tone, quietly frustrated. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Singapore",
+      "witness": "Rafiq Bhandari",
+      "relativePath": "witnesses/singapore-rafiq-bhandari-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/singapore-rafiq-bhandari-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Rafiq Bhandari. Location context: Singapore, Singapore. Personality: Observant freelance AV engineer with a gossip streak. Backstory: He handled projection systems for the keynote stage and kept moving between loading docks and control rooms.. Voice and age cues: 40s South Asian man, lively cadence, amused but alert. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Tangier",
+      "relativePath": "cities/02-tangier-scene.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/cities/02-tangier-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Tangier, Morocco. Show the white hillside medina above the Strait of Gibraltar with layered harbor roofs, Atlantic light, ferry traffic, fortified walls, and the threshold feeling of North Africa meeting Europe. This must read as an unmistakable city-establishing image for Tangier, focused on place identity rather than the crime logistics zone. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Tangier",
+      "relativePath": "panoramas/02-tangier-panorama.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/panoramas/02-tangier-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Tangier, Morocco. Camera placement: eye level inside the freeport gate-three interchange where couriers meet brokers beside cold-storage cargo before the Montreal reroute. Show a believable bonded port exchange with refrigerated crates, escort lanes, security booths, and windblown industrial detail. Include these visible clues as physical evidence in the environment: a bonded crate declared as marine sensors but marked for armed escort clearance; a courier handoff point beside a gate-three bollard where Karim Haddad met the runner; reroute paperwork from Tangier to Montreal cold storage filed under a diplomatic waiver; a broker clipboard showing cold-chain handling for cargo that is too small for the declared escort level. Keep the scene grounded and documentary rather than theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tangier",
+      "witness": "Samira El Idrissi",
+      "relativePath": "witnesses/tangier-samira-el-idrissi-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/tangier-samira-el-idrissi-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Samira El Idrissi. Location context: Tangier, Morocco. Personality: Methodical ferry manifest clerk who trusts paperwork more than people. Backstory: She has worked the Tangier ferry terminal for nine years and remembers odd cargo declarations instantly.. Voice and age cues: 40s Moroccan woman, calm, precise, low steady register. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tangier",
+      "witness": "Nabil Chaoui",
+      "relativePath": "witnesses/tangier-nabil-chaoui-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/tangier-nabil-chaoui-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Nabil Chaoui. Location context: Tangier, Morocco. Personality: Smooth customs broker who pretends everything is routine. Backstory: He arranges paperwork for bonded cargo and knows which consignments come with pressure from above.. Voice and age cues: 50s Moroccan man, polished voice, unhurried and slightly smug. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Montreal",
+      "relativePath": "cities/03-montreal-scene.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/cities/03-montreal-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Montreal, Canada. Show the Old Port and downtown skyline in cold weather with steel-gray river light, heritage facades, modern towers, and a clear sense of Montreal as a North Atlantic logistics city. This must read as a premium city-establishing image for Montreal rather than a warehouse evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Montreal",
+      "relativePath": "panoramas/03-montreal-panorama.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/panoramas/03-montreal-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Montreal, Canada. Camera placement: eye level inside a temperature-controlled freight staging area where overnight dock clocks and security stills are reviewed after the rerouted crate arrives. Show a believable cold-storage logistics floor with synchronized dock timers, rolling cages, security monitors, and grounded warehouse realism. Include these visible clues as physical evidence in the environment: early security stills placing Adrian Vale near the crate route before the clocks were synchronized; a driver dispatch note using the phrase winter room is booked; dock clocks showing mismatched timestamps before manual sync; a cold-room transfer sheet tying the real shipment phrase to Elena Petrov rather than any decoy route. Make the panorama feel investigable without turning it into a collage of props. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Montreal",
+      "witness": "Dr. Chloe Bouchard",
+      "relativePath": "witnesses/montreal-dr-chloe-bouchard-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/montreal-dr-chloe-bouchard-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dr. Chloe Bouchard. Location context: Montreal, Canada. Personality: Cold insurance risk analyst with an appetite for patterns. Backstory: She specializes in sensitive technology insurance fraud and was asked to quietly review the relay chip policy.. Voice and age cues: 40s Quebecois woman, measured diction, analytical and dry. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Montreal",
+      "witness": "Marc-Andre Pelletier",
+      "relativePath": "witnesses/montreal-marc-andre-pelletier-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/montreal-marc-andre-pelletier-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Marc-Andre Pelletier. Location context: Montreal, Canada. Personality: Overworked freight dispatcher who memorizes faces. Backstory: He supervises overnight temperature-controlled freight and saw the suspicious transfer that never hit the books.. Voice and age cues: 50s Canadian man, tired rasp, practical and blunt. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Busan",
+      "relativePath": "cities/04-busan-scene.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/cities/04-busan-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Busan, South Korea. Show the harbor skyline with the Gwangan Bridge, stacked port infrastructure, sea haze, dense high-rises, and the unmistakable energy of Busan as a maritime gateway city. This must read as an iconic city-establishing image for Busan, not as a cargo evidence bay or customs back room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Busan",
+      "relativePath": "panoramas/04-busan-panorama.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/panoramas/04-busan-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Busan, South Korea. Camera placement: eye level inside a bonded cold-chain transit bay where a false relay pickup was staged without the real crate ever arriving. Show a believable refrigerated port facility with steel doors, pallet lanes, insulated equipment, dock lights, and grounded documentary realism. Include these visible clues as physical evidence in the environment: an empty marine-sensors shell on a cargo dolly; a cloned courier lanyard planted near the pickup lane; a canceled Northstar handling pre-alert on the dispatcher station; access notes showing the high-value transfer window closed before any crate entered the bay. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Busan",
+      "witness": "Park Ji-hoon",
+      "relativePath": "witnesses/busan-park-ji-hoon-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/busan-park-ji-hoon-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Park Ji-hoon. Location context: Busan, South Korea. Personality: Bonded terminal dispatcher who notices shipments that exist only on paper. Backstory: He manages refrigerated priority freight through Busan port and flagged the relay shipment because every document arrived before the cargo did.. Voice and age cues: 40s Korean man, clipped port-office cadence, skeptical and precise. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Busan",
+      "witness": "Min Seo-yun",
+      "relativePath": "witnesses/busan-min-seo-yun-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/busan-min-seo-yun-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Min Seo-yun. Location context: Busan, South Korea. Personality: Freeport security analyst who trusts camera logs over courier stories. Backstory: She audits restricted-lane footage for Busan freeport and reconstructed the fake pickup meant to make Busan look like the real handoff.. Voice and age cues: 30s Korean woman, measured security tone, analytical and dry. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Stockholm",
+      "relativePath": "cities/05-stockholm-scene.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/cities/05-stockholm-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Stockholm, Sweden. Show the archipelago capital with Gamla Stan facades, clean waterfront light, Nordic sky, elegant bridges, and the refined atmosphere that makes Stockholm instantly recognizable. This must read as an iconic city-establishing image for Stockholm, not as a defense vault or laboratory interior. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Stockholm",
+      "relativePath": "panoramas/05-stockholm-panorama.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/panoramas/05-stockholm-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Stockholm, Sweden. Camera placement: eye level inside a shielded defense evaluation vault where the relay arrived for Nordic testing under Elena Petrov's authority. Show a believable secure integration space with Faraday transport hardware, clean glass partitions, access readers, equipment benches, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a sealed Faraday relay case on an evaluation stand; an Elena Petrov authorization packet beside the intake console; a rejection log showing Adrian Vale's cloned credential attempts; a Nordic buyer shell transfer sheet tied to the same Northstar payout rails seen in Montreal. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Stockholm",
+      "witness": "Ingrid Magnusson",
+      "relativePath": "witnesses/stockholm-ingrid-magnusson-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/stockholm-ingrid-magnusson-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ingrid Magnusson. Location context: Stockholm, Sweden. Personality: Defense procurement officer who distrusts elegant cover stories. Backstory: She oversees secure evaluations for Nordic defense communications hardware and recognized the relay paperwork the moment it crossed her desk.. Voice and age cues: 40s Swedish woman, calm official tone, incisive and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Stockholm",
+      "witness": "Henrik Strand",
+      "relativePath": "witnesses/stockholm-henrik-strand-portrait.jpg",
+      "publicUrl": "/assets/seeds/sapphire-relay/witnesses/stockholm-henrik-strand-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Henrik Strand. Location context: Stockholm, Sweden. Personality: Integration-vault supervisor who remembers who actually crossed the threshold. Backstory: He runs access control for a shielded evaluation suite and noticed which visitors had paperwork and which only had reputations.. Voice and age cues: 50s Swedish man, low measured register, observant and exact. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    }
+  ]
+}

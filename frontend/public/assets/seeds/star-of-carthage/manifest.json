@@ -1,0 +1,248 @@
+{
+  "templateId": "seed-star-of-carthage",
+  "slug": "star-of-carthage",
+  "title": "The Star of Carthage",
+  "generatedAt": "2026-04-30T01:27:25.304Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Istanbul",
+      "relativePath": "cities/01-istanbul-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/01-istanbul-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Istanbul, Turkey. Show an instantly recognizable Sultanahmet skyline with the Blue Mosque, layered domes, historic rooftops, soft Bosphorus haze, and wet stone surfaces after recent rain. This must read as an iconic city-establishing image for Istanbul, with premium travel photography, grounded urban texture, believable light, and subtle everyday life. Do not stage a crime scene, do not show evidence, and do not frame the view as a museum service area. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Istanbul",
+      "relativePath": "panoramas/01-istanbul-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/01-istanbul-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Istanbul, Turkey. Camera placement: eye level inside the museum service entrance and loading zone where the gala blackout created the first blind spot. Show a believable real-world service yard beside a major museum just after rain, with coherent architecture, a natural horizon, and premium documentary realism. Include these visible clues as physical evidence in the environment: fresh wet shoe prints crossing from a staff-only door toward the curb; a disabled security camera hanging slightly off-angle above the side entrance; an empty velvet display tray insert left on a service trolley; a red evening scarf snagged on a brass queue barrier. Make the panorama useful to the player by letting the clues be readable at a glance without adding any written labels or interface graphics. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Istanbul",
+      "witness": "Elif Yilmaz",
+      "relativePath": "witnesses/istanbul-elif-yilmaz-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/istanbul-elif-yilmaz-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Elif Yilmaz. Location context: Istanbul, Turkey. Personality: Nervous museum curator who noticed something odd. Backstory: Head curator at the Istanbul Archaeological Museum for 12 years. She organized the gala and feels personally responsible for the theft.. Voice and age cues: Middle-aged woman, slight Turkish accent, anxious and fast-speaking. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Istanbul",
+      "witness": "Marco Ferretti",
+      "relativePath": "witnesses/istanbul-marco-ferretti-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/istanbul-marco-ferretti-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Marco Ferretti. Location context: Istanbul, Turkey. Personality: Charming Italian art dealer with connections. Backstory: International art dealer who was attending the gala as a VIP guest. Known for his extensive network in the underground art world.. Voice and age cues: 50s Italian man, smooth baritone, confident and slightly evasive. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Athens",
+      "relativePath": "cities/02-athens-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/02-athens-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Athens, Greece. Show the Acropolis rising above the city with layered Plaka rooftops, pale stone buildings, warm Mediterranean light, and a clear sense of Athens as an ancient city still alive with contemporary movement. This must read as an iconic city-establishing image for Athens, not as a private auction house or evidence scene. Premium travel photography, grounded detail, believable atmosphere, no overt investigation elements. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Athens",
+      "relativePath": "panoramas/02-athens-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/02-athens-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Athens, Greece. Camera placement: eye level inside an after-hours intake corridor between a private auction-house registrar desk and bonded lockers. Show a controlled, wealthy, real-world logistics space with documentary realism, believable architecture, grounded materials, and coherent panoramic wrap. Include these visible clues as physical evidence in the environment: blank provenance sheets spread across the registrar desk; a copied customs seal abandoned beside locker paperwork; an opened bonded locker containing only wrapping silk and no jewel case; a partially erased intake slate suggesting the piece never truly arrived. Make the panorama useful to the player by keeping the evidence visible and natural rather than theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Athens",
+      "witness": "Nikos Varela",
+      "relativePath": "witnesses/athens-nikos-varela-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/athens-nikos-varela-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Nikos Varela. Location context: Athens, Greece. Personality: Auction registrar who treats missing paperwork like a personal insult. Backstory: He manages intake at a private Athens auction house and remembers every wealthy client who asks for exceptions before a piece even arrives.. Voice and age cues: 50s Greek man, dry formal tone, patient and suspicious. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Athens",
+      "witness": "Sofia Markou",
+      "relativePath": "witnesses/athens-sofia-markou-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/athens-sofia-markou-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Sofia Markou. Location context: Athens, Greece. Personality: Piraeus freight clerk who trusts container logs over glamorous stories. Backstory: She watches bonded lockers near the port and notices when expensive rumors arrive with no matching cargo behind them.. Voice and age cues: 30s Greek woman, brisk dockside cadence, alert and skeptical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Marrakech",
+      "relativePath": "cities/03-marrakech-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/03-marrakech-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Marrakech, Morocco. Show an iconic rooftop view across the medina toward the Koutoubia minaret, with terracotta walls, market awnings, layered courtyards, desert light, and atmospheric urban density. This must read as an unmistakable city-establishing image for Marrakech, rich in place identity and travel-photography realism. Do not stage a jeweler crime scene or foreground evidence. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Marrakech",
+      "relativePath": "panoramas/03-marrakech-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/03-marrakech-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Marrakech, Morocco. Camera placement: eye level inside a jeweler courtyard off the medina where a copied clasp could be prepared without exposing the real necklace. Show a believable workshop courtyard with warm light, textured walls, practical tools, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a half-finished clasp casting still cooling on a jeweler workbench; fresh shipping labels stacked beside a tea glass; a sealed velvet case that stayed closed while buyers argued nearby; fine metal dust and jeweler tools suggesting a rushed duplicate job. Make the evidence readable without turning the scene into a collage or staged prop display. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Marrakech",
+      "witness": "Amina Benali",
+      "relativePath": "witnesses/marrakech-amina-benali-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/marrakech-amina-benali-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Amina Benali. Location context: Marrakech, Morocco. Personality: Sharp-eyed spice merchant who sees everything. Backstory: Runs a spice stall in the medina for 20 years. Nothing happens in the souk without her knowing.. Voice and age cues: 60s Moroccan woman, warm but direct, speaks with authority. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Marrakech",
+      "witness": "Youssef Tazi",
+      "relativePath": "witnesses/marrakech-youssef-tazi-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/marrakech-youssef-tazi-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Youssef Tazi. Location context: Marrakech, Morocco. Personality: Quiet jeweler with a mysterious past. Backstory: Master jeweler who once worked for a European auction house before retiring to Marrakech. Some say he left under suspicious circumstances.. Voice and age cues: 70s Moroccan man, soft-spoken, deliberate pauses, wise tone. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Algiers",
+      "relativePath": "cities/04-algiers-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/04-algiers-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Algiers, Algeria. Show the white hillside city descending toward the Mediterranean, with bright facades, layered terraces, harbor atmosphere, and a strong sense of Algiers as a coastal North African capital. This must read as an iconic city-establishing image for Algiers with premium travel-photography realism and no investigative staging. Do not depict the freeport evidence scene in the main city image. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Algiers",
+      "relativePath": "panoramas/04-algiers-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/04-algiers-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Algiers, Algeria. Camera placement: eye level inside a freeport intake bay that was booked to misdirect the investigation without ever receiving the cargo. Show a believable maritime logistics space with dock lighting, customs equipment, industrial texture, and documentary realism. Include these visible clues as physical evidence in the environment: a canceled manifest clipped to a rolling customs stand; a copied Vienna insurer seal attached to a crate sleeve; an empty loading space under bright dock lights where the reserved container should be; forklift tracks that stop abruptly with no real transfer taking place. Keep the scene grounded and readable rather than stylized or theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Algiers",
+      "witness": "Karim Belkacem",
+      "relativePath": "witnesses/algiers-karim-belkacem-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/algiers-karim-belkacem-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Karim Belkacem. Location context: Algiers, Algeria. Personality: Freeport dispatcher who hates phantom bookings. Backstory: He manages sealed cargo windows at Algiers freeport and keeps personal notes on clients who try to reserve unloading space for goods that never appear.. Voice and age cues: 40s Algerian man, clipped official tone, practical and guarded. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Algiers",
+      "witness": "Leila Haddad",
+      "relativePath": "witnesses/algiers-leila-haddad-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/algiers-leila-haddad-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Leila Haddad. Location context: Algiers, Algeria. Personality: Customs archivist who remembers forged seals better than real ones. Backstory: She audits canceled manifests for the port authority and can spot copied insurance paperwork from a single wrong code stamp.. Voice and age cues: 30s Algerian woman, precise voice, cool and methodical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Vienna",
+      "relativePath": "cities/05-vienna-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/05-vienna-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Vienna, Austria. Show an elegant Ringstrasse view with grand imperial facades, tram movement, polished stone streets, and the refined civic atmosphere that makes Vienna instantly recognizable. This must read as a premium city-establishing image for Vienna, rooted in architecture and atmosphere rather than investigation clues. Do not depict archive evidence, shell-company documents, or a crime-scene-like setup in the main image. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Vienna",
+      "relativePath": "panoramas/05-vienna-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/05-vienna-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Vienna, Austria. Camera placement: eye level inside a private insurance archive room tied to shell-company paperwork and vault guarantees. Show a discreet high-end records room with polished surfaces, task lighting, legal folders, secure storage cues, and grounded documentary realism. Include these visible clues as physical evidence in the environment: an open policy folder showing a Geneva freeport guarantee on one page; a routing note with Prague circled as a deliberate decoy stop; fresh gloves and a vault-access badge left beside a polished evidence table; an incomplete beneficiary chain laid out for review under task lighting. Make the evidence legible but natural within the room. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Vienna",
+      "witness": "Dr. Helga Braun",
+      "relativePath": "witnesses/vienna-dr-helga-braun-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/vienna-dr-helga-braun-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Dr. Helga Braun. Location context: Vienna, Austria. Personality: Meticulous insurance investigator. Backstory: Senior investigator at Europa Insurance Group. She has been tracking art theft rings across Europe for 15 years.. Voice and age cues: 50s Austrian woman, precise diction, analytical and cold. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Vienna",
+      "witness": "Franz Huber",
+      "relativePath": "witnesses/vienna-franz-huber-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/vienna-franz-huber-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Franz Huber. Location context: Vienna, Austria. Personality: Retired Interpol agent turned private consultant. Backstory: Spent 25 years at Interpol specializing in art crime. Now consults privately and still has contacts everywhere.. Voice and age cues: 60s Austrian man, gruff voice, no-nonsense, speaks in short sentences. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Prague",
+      "relativePath": "cities/06-prague-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/06-prague-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Prague, Czech Republic. Show the Charles Bridge and Prague Castle rising above the river with red rooftops, moody stone texture, and layered historic skyline that makes Prague instantly recognizable. This must read as an iconic city-establishing image for Prague with premium travel-photography realism. Do not turn the main image into a workshop clue scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Prague",
+      "relativePath": "panoramas/06-prague-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/06-prague-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Prague, Czech Republic. Camera placement: eye level inside a restoration studio where a convincing twin briefly stood in for the real necklace. Show a believable historic craft workshop with benches, tools, paper records, muted light, and documentary realism. Include these visible clues as physical evidence in the environment: weighted glass stones beside a nearly finished Ottoman-style twin; forged provenance papers pinned under a metal ruler; a dropped courier satchel padded for a jewel transfer but now empty; fresh clasp tooling that looks new rather than historical. Let the space feel like a real working studio first, with the evidence naturally discoverable inside it. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Prague",
+      "witness": "Tomas Cerny",
+      "relativePath": "witnesses/prague-tomas-cerny-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/prague-tomas-cerny-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Tomas Cerny. Location context: Prague, Czech Republic. Personality: Antiquities restorer who distrusts anyone asking for instant history. Backstory: He repairs aristocratic heirlooms in Prague and has become a quiet expert at spotting forged provenance before a single object reaches his bench.. Voice and age cues: 60s Czech man, careful soft voice, scholarly and wary. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Prague",
+      "witness": "Eva Krizova",
+      "relativePath": "witnesses/prague-eva-krizova-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/prague-eva-krizova-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Eva Krizova. Location context: Prague, Czech Republic. Personality: Night dispatcher who notices when decoys are heavier than the truth. Backstory: She monitors bonded courier arrivals across Prague rail depots and has a habit of opening incident logs whenever expensive cargo behaves theatrically.. Voice and age cues: 40s Czech woman, quick crisp speech, sharp-eyed and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Geneva",
+      "relativePath": "cities/07-geneva-scene.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/cities/07-geneva-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Geneva, Switzerland. Show the lakefront with the Jet d Eau, clean quays, restrained luxury, mountain haze, and polished urban calm that makes Geneva instantly recognizable. This must read as an iconic city-establishing image for Geneva with premium travel-photography realism and no overt investigative evidence. Do not depict the private viewing room or handoff evidence in the main city image. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Geneva",
+      "relativePath": "panoramas/07-geneva-panorama.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/panoramas/07-geneva-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Geneva, Switzerland. Camera placement: eye level inside a sealed private viewing room in the Geneva freeport where the true handoff is closest to completion. Show a discreet high-value viewing space with controlled light, premium materials, secure access cues, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a custom foam insert shaped for an Ottoman necklace on the viewing table; a shell-company booking folder beside a banker leather case; secure transfer gloves placed near a closed side exit ready for movement; a slim jewel case set down just long enough for buyer confirmation. Make the evidence clear enough to inspect while keeping the room believable and elegant. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Geneva",
+      "witness": "Margot Duval",
+      "relativePath": "witnesses/geneva-margot-duval-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/geneva-margot-duval-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Margot Duval. Location context: Geneva, Switzerland. Personality: Freeport compliance officer who keeps elegant notes on ugly money. Backstory: She audits private vault usage at the Geneva freeport and knows which clients hide behind art insurance fronts to avoid appearing on inventory trails.. Voice and age cues: 40s Swiss French woman, low steady voice, discreet and exact. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Geneva",
+      "witness": "Luc Renard",
+      "relativePath": "witnesses/geneva-luc-renard-portrait.jpg",
+      "publicUrl": "/assets/seeds/star-of-carthage/witnesses/geneva-luc-renard-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Luc Renard. Location context: Geneva, Switzerland. Personality: Private driver who remembers passengers by what they refuse to say aloud. Backstory: He handles secure late-night transfers around Lake Geneva and keeps mental tabs on clients who pay double to avoid customs eyes.. Voice and age cues: 50s French Swiss man, restrained driver's cadence, observant and blunt. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    }
+  ]
+}

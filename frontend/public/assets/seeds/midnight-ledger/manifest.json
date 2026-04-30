@@ -1,0 +1,180 @@
+{
+  "templateId": "seed-midnight-ledger",
+  "slug": "midnight-ledger",
+  "title": "The Midnight Ledger",
+  "generatedAt": "2026-04-30T02:47:47.562Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Dubai",
+      "relativePath": "cities/01-dubai-scene.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/cities/01-dubai-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Dubai, United Arab Emirates. Show a dramatic financial-district skyline with glass towers, desert haze, reflective facades, and the unmistakable vertical ambition that identifies Dubai. This must read as an iconic city-establishing image for Dubai, not as an audit-room crime scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Dubai",
+      "relativePath": "panoramas/01-dubai-panorama.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/panoramas/01-dubai-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Dubai, United Arab Emirates. Camera placement: eye level inside the banking audit room where the ledger vanished during a blackout triggered from a mezzanine maintenance cabinet. Show a believable high-end financial interior with glass partitions, compliance desks, maintenance access, and grounded documentary realism. Include these visible clues as physical evidence in the environment: a maintenance cabinet cut from inside rather than the central power panel; a velvet document sleeve on the audit desk with dust traces; an overnight courier booking to Tbilisi created under emergency handling codes; lobby-garage handoff traces tying the sleeve to customs fixer Niko Tsereteli. Make the evidence clear without turning the room into staged prop theater. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dubai",
+      "witness": "Salma Al Nuaimi",
+      "relativePath": "witnesses/dubai-salma-al-nuaimi-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/dubai-salma-al-nuaimi-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Salma Al Nuaimi. Location context: Dubai, United Arab Emirates. Personality: Compliance director who distrusts every unexplained interruption. Backstory: She ran the audit room and now faces regulators because the ledger disappeared on her watch. She has reconstructed every badge swipe since the outage.. Voice and age cues: 40s Emirati woman, controlled and exact, quietly severe. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Dubai",
+      "witness": "Pavel Orlov",
+      "relativePath": "witnesses/dubai-pavel-orlov-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/dubai-pavel-orlov-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Pavel Orlov. Location context: Dubai, United Arab Emirates. Personality: Luxury hotel concierge who remembers the lies wealthy clients tell badly. Backstory: He handles private banking guests and noticed which names were nervously checking departures after the blackout. He is polished, but he keeps score.. Voice and age cues: 50s Russian man, smooth hotel cadence, faintly mocking. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Tbilisi",
+      "relativePath": "cities/02-tbilisi-scene.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/cities/02-tbilisi-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Tbilisi, Georgia. Show the old city across the river with Narikala above, sulfur-bath domes, stacked balconies, and the warm layered topography that makes Tbilisi instantly recognizable. This must read as an iconic city-establishing image for Tbilisi, not the bonded transfer evidence zone. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Tbilisi",
+      "relativePath": "panoramas/02-tbilisi-panorama.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/panoramas/02-tbilisi-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Tbilisi, Georgia. Camera placement: eye level inside a bonded warehouse transfer staging area where the velvet sleeve arrives hidden inside a turbine parts crate before the Riga reroute. Show a believable industrial transfer floor with sealed crates, dawn rail logistics, customs tape, and documentary realism. Include these visible clues as physical evidence in the environment: a turbine parts crate concealing the velvet sleeve; dawn manifest relabeling from Tbilisi to Riga; fee handoff traces tying the staging area to Niko Tsereteli; shell-firm guarantee paperwork linked to Mikhail Arsenyev's bonded transfer cover. Keep the clues embedded in the movement of cargo rather than spotlighted theatrically. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tbilisi",
+      "witness": "Maka Tsiklauri",
+      "relativePath": "witnesses/tbilisi-maka-tsiklauri-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/tbilisi-maka-tsiklauri-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Maka Tsiklauri. Location context: Tbilisi, Georgia. Personality: Bonded warehouse manager who checks crates herself when clients act nervous. Backstory: She supervises high-value transfers along the rail corridor and flagged the velvet sleeve shipment as misdeclared. People higher up told her to stop asking questions.. Voice and age cues: 40s Georgian woman, firm voice, practical and suspicious. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tbilisi",
+      "witness": "Levan Japaridze",
+      "relativePath": "witnesses/tbilisi-levan-japaridze-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/tbilisi-levan-japaridze-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Levan Japaridze. Location context: Tbilisi, Georgia. Personality: Night accountant who trusts numbers more than signatures. Backstory: He clears bonded fees for a freight consortium and noticed the payment trail behind the rerouted crate. Forged documents irritate him on principle.. Voice and age cues: 30s Georgian man, dry voice, methodical and restrained. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Riga",
+      "relativePath": "cities/03-riga-scene.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/cities/03-riga-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Riga, Latvia. Show Riga's old town spires and riverfront under cold Baltic light with merchant facades, docks, and the restrained northern atmosphere that makes the city identifiable. This must read as a city-establishing image for Riga, not a dry-dock scanning evidence suite. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Riga",
+      "relativePath": "panoramas/03-riga-panorama.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/panoramas/03-riga-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Riga, Latvia. Camera placement: eye level inside the old harbor room scanning suite near the dry docks where the stolen ledger pages were digitized. Show a believable post-midnight scanning room with paper stacks, industrial harbor windows, shred bins, and restrained financial-crime realism. Include these visible clues as physical evidence in the environment: digitized ledger pages laid out for scanning; Mikhail Arsenyev's personal inspection station inside the room; shredded spare ledger pages after scans were completed; dry-dock access traces tying the suite to the harbor rather than any bank archive. Make the room feel operational and quiet, with the clues emerging from the workflow. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Riga",
+      "witness": "Ilze Straume",
+      "relativePath": "witnesses/riga-ilze-straume-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/riga-ilze-straume-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ilze Straume. Location context: Riga, Latvia. Personality: Financial crimes analyst who quietly hunts patterns across shell firms. Backstory: She was already mapping suspicious oil commissions when the Dubai ledger surfaced in her case notes. The names on it fit a pattern she has tracked for months.. Voice and age cues: 40s Latvian woman, calm low register, analytical and cool. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Riga",
+      "witness": "Edgars Ozols",
+      "relativePath": "witnesses/riga-edgars-ozols-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/riga-edgars-ozols-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Edgars Ozols. Location context: Riga, Latvia. Personality: Dock electrician who notices which rooms stay lit after midnight. Backstory: He works maintenance in the dry dock district and saw the final transfer enter a shuttered scanning room. He knows which visitors are local and which ones are bluffing.. Voice and age cues: 50s Latvian man, gravelly voice, blunt and clear-eyed. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Baku",
+      "relativePath": "cities/04-baku-scene.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/cities/04-baku-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Baku, Azerbaijan. Show the Caspian waterfront with the old city, modern skyline, desert light, and the unmistakable petro-financial profile of Baku. This must read as an iconic city-establishing image for Baku, not as a fake cargo stop or tanker paperwork room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Baku",
+      "relativePath": "panoramas/04-baku-panorama.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/panoramas/04-baku-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Baku, Azerbaijan. Camera placement: eye level inside an off-hours manifest office where a false Caspian route was built for auditors without the ledger ever arriving. Show a believable oil-port document room with tanker boards, stamped folders, shift desks, dim practical light, and grounded documentary realism. Include these visible clues as physical evidence in the environment: an unused Baku hold-slot packet under Daria Volkova's orbit; fake routing sheets naming Niko Tsereteli; settlement notes pointing to Istanbul instead of the Caspian; a desk calendar showing the paperwork existed for rumor timing, not operations. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Baku",
+      "witness": "Leyla Mammadova",
+      "relativePath": "witnesses/baku-leyla-mammadova-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/baku-leyla-mammadova-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Leyla Mammadova. Location context: Baku, Azerbaijan. Personality: Pipeline compliance auditor who notices when oil paperwork is written only to be seen. Backstory: She reviews emergency export holds around the Caspian and flagged the Baku booking because it arrived with urgency but no physical cargo trail.. Voice and age cues: 40s Azerbaijani woman, dry compliance tone, sharp and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Baku",
+      "witness": "Rashad Karimov",
+      "relativePath": "witnesses/baku-rashad-karimov-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/baku-rashad-karimov-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Rashad Karimov. Location context: Baku, Azerbaijan. Personality: Tanker manifest broker who can tell a fake fuel route from the handwriting alone. Backstory: He prepares off-hours manifest corrections and immediately recognized the Baku sheets as theater written for auditors, not operators.. Voice and age cues: 50s Azerbaijani man, low rough voice, practical and skeptical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Istanbul",
+      "relativePath": "cities/05-istanbul-scene.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/cities/05-istanbul-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Istanbul, Turkey. Show the Bosphorus skyline with domes, minarets, layered ferry traffic, and the unmistakable strait-city atmosphere of Istanbul. This must read as an iconic city-establishing image for Istanbul, not a clandestine finance vault or currency room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Istanbul",
+      "relativePath": "panoramas/05-istanbul-panorama.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/panoramas/05-istanbul-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Istanbul, Turkey. Camera placement: eye level inside a private conversion vault where sanctioned oil-payment proceeds were finalized after the Riga scan. Show a believable high-security banking chamber with armored doors, currency terminals, commodity ledgers, subdued lighting, and grounded documentary realism. Include these visible clues as physical evidence in the environment: shell-bank settlement sheets tied to Mikhail Arsenyev; burned ledger residue in a disposal tray; a forged Daria Volkova authorization beside Mikhail's real approval; conversion notes linking Riga's Old Harbor Room to Istanbul settlement accounts. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Istanbul",
+      "witness": "Eren Ozdemir",
+      "relativePath": "witnesses/istanbul-eren-ozdemir-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/istanbul-eren-ozdemir-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Eren Ozdemir. Location context: Istanbul, Turkey. Personality: Customs broker who follows shell-bank patterns through every port excuse. Backstory: He tracks sanctioned freight clearances through Istanbul and recognized the ledger conversion network from prior oil-shadow transactions.. Voice and age cues: 50s Turkish man, careful broker cadence, observant and unsparing. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Istanbul",
+      "witness": "Fatih Kaya",
+      "relativePath": "witnesses/istanbul-fatih-kaya-portrait.jpg",
+      "publicUrl": "/assets/seeds/midnight-ledger/witnesses/istanbul-fatih-kaya-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Fatih Kaya. Location context: Istanbul, Turkey. Personality: Port authority supervisor who remembers who signs after the room clears. Backstory: He supervises private secure transfers along the Bosphorus and watched the final ledger verification leave only one real name standing.. Voice and age cues: 60s Turkish man, patient harbor voice, blunt and exact. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    }
+  ]
+}

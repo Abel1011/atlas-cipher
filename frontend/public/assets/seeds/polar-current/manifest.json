@@ -1,0 +1,180 @@
+{
+  "templateId": "seed-polar-current",
+  "slug": "polar-current",
+  "title": "Polar Current",
+  "generatedAt": "2026-04-30T02:49:31.930Z",
+  "model": "gpt-image-2",
+  "style": "Photorealistic editorial stills and immersive 360 evidence panoramas for a contemporary global investigation game.",
+  "entries": [
+    {
+      "type": "scene",
+      "city": "Nuuk",
+      "relativePath": "cities/01-nuuk-scene.jpg",
+      "publicUrl": "/assets/seeds/polar-current/cities/01-nuuk-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Nuuk, Greenland. Show Nuuk's colorful harbor buildings against dark Arctic water and snow-backed mountains, with a severe polar sky and the isolation that makes the city instantly identifiable. This must read as an iconic city-establishing image for Nuuk, not the inside of a lab drill corridor. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Nuuk",
+      "relativePath": "panoramas/01-nuuk-panorama.jpg",
+      "publicUrl": "/assets/seeds/polar-current/panoramas/01-nuuk-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Nuuk, Greenland. Camera placement: eye level inside the polar robotics lab transfer staging area during the whiteout drill where the control core crate was relabeled. Show a believable Arctic research interior with cold-weather gear, survey crates, emergency lighting, and grounded technical realism. Include these visible clues as physical evidence in the environment: a freight tag for Tromso tucked inside a discarded thermal glove; a control core crate relabeled as survey batteries; an Aurora Straits courier patch abandoned even though the lab never uses that insignia; emergency-drill staging marks showing the transfer occurred during the whiteout window. Keep the clues physical and readable without losing the lab's realism. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Nuuk",
+      "witness": "Ane Petersen",
+      "relativePath": "witnesses/nuuk-ane-petersen-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/nuuk-ane-petersen-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ane Petersen. Location context: Nuuk, Greenland. Personality: Operations lead who treats emergency drills like sacred procedure. Backstory: She commanded the Nuuk robotics lab through the storm alert and knows exactly which steps were falsified. The theft has frozen half her program.. Voice and age cues: 40s Greenlandic woman, controlled voice, disciplined and unsparing. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Nuuk",
+      "witness": "Malik Jensen",
+      "relativePath": "witnesses/nuuk-malik-jensen-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/nuuk-malik-jensen-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Malik Jensen. Location context: Nuuk, Greenland. Personality: Fuel tech who pays attention when labels do not match the handling gear. Backstory: He loads Arctic survey flights and spotted the control core being disguised as routine field equipment. He notices cargo lies faster than he notices faces.. Voice and age cues: 30s Danish-Greenlandic man, quick voice, alert and skeptical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Tromso",
+      "relativePath": "cities/02-tromso-scene.jpg",
+      "publicUrl": "/assets/seeds/polar-current/cities/02-tromso-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Tromso, Norway. Show the Arctic harbor with the bridge, bright water, mountain walls, and cold northern light that makes Tromso immediately recognizable as a polar port city. This must read as an iconic city-establishing image for Tromso, not a forged salvage paperwork scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Tromso",
+      "relativePath": "panoramas/02-tromso-panorama.jpg",
+      "publicUrl": "/assets/seeds/polar-current/panoramas/02-tromso-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Tromso, Norway. Camera placement: eye level at the dock where the relabeled survey-battery crate boards a research trawler heading for Halifax under false salvage authorization. Show a believable Arctic harbor loading scene with trawler gear, ice-weather surfaces, emergency-release paperwork desks, and documentary realism. Include these visible clues as physical evidence in the environment: Petra Volkov's false salvage papers naming her as emergency claims beneficiary; Sanna Kade's remote release authorization traces; the relabeled survey-battery crate prepared for Halifax transfer; a contact note demanding the live core rather than a shell unit. Let the harbor remain functional and cold rather than theatrical. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tromso",
+      "witness": "Signe Dahl",
+      "relativePath": "witnesses/tromso-signe-dahl-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/tromso-signe-dahl-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Signe Dahl. Location context: Tromso, Norway. Personality: Harbor controller who documents every exceptional movement twice. Backstory: She cleared emergency cargo through Tromso harbor and immediately distrusted the salvage exemptions tied to this crate. Her notes are meticulous enough to survive lawyers.. Voice and age cues: 40s Norwegian woman, crisp diction, calm under pressure. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Tromso",
+      "witness": "Yusuf Demir",
+      "relativePath": "witnesses/tromso-yusuf-demir-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/tromso-yusuf-demir-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Yusuf Demir. Location context: Tromso, Norway. Personality: Cold-weather mechanic who hears too much when crews panic. Backstory: He serviced the trawler winches and kept hearing conflicting explanations for the same crate. He trusts machine logs more than people.. Voice and age cues: 30s Turkish-Norwegian man, grounded tone, blunt and practical. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Halifax",
+      "relativePath": "cities/03-halifax-scene.jpg",
+      "publicUrl": "/assets/seeds/polar-current/cities/03-halifax-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Halifax, Canada. Show Halifax Harbor with working piers, Atlantic gray light, the layered waterfront, and the North Atlantic maritime character that makes Halifax identifiable. This must read as a city-establishing image for Halifax, not a cold-lab evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "skipped"
+    },
+    {
+      "type": "panorama",
+      "city": "Halifax",
+      "relativePath": "panoramas/03-halifax-panorama.jpg",
+      "publicUrl": "/assets/seeds/polar-current/panoramas/03-halifax-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Halifax, Canada. Camera placement: eye level inside the private cold-storage lab where the final crate was opened after midnight and the dummy telemetry board was discarded. Show a believable maritime-industrial lab with insulated benches, crate stands, harbor-adjacent cold storage, and documentary realism. Include these visible clues as physical evidence in the environment: Sanna Kade's station at the opened control-core case; a discarded dummy telemetry board ready for disposal; profit-tracking materials tied to three disabled beacon corridors; cold-room handling traces confirming the real core, not a shell unit, arrived here. Keep the room procedural and chillingly plausible. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Halifax",
+      "witness": "Claire Donovan",
+      "relativePath": "witnesses/halifax-claire-donovan-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/halifax-claire-donovan-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Claire Donovan. Location context: Halifax, Canada. Personality: Procurement auditor who quietly follows who profits from emergency contracts. Backstory: She audits polar research procurement and recognized the Aurora Straits paperwork immediately. The stolen telemetry package fits a contract reshuffle she has been tracking.. Voice and age cues: 40s Canadian woman, steady voice, thoughtful and incisive. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "portrait",
+      "city": "Halifax",
+      "witness": "Noah Mercer",
+      "relativePath": "witnesses/halifax-noah-mercer-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/halifax-noah-mercer-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Noah Mercer. Location context: Halifax, Canada. Personality: Night guard who notices when expensive equipment moves at the wrong hour. Backstory: He patrols a private shipyard lab in Halifax and saw the final crate opened after midnight. He does not like people who assume guards do not pay attention.. Voice and age cues: 50s Canadian man, deep patient voice, observant and dry. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "skipped"
+    },
+    {
+      "type": "scene",
+      "city": "Murmansk",
+      "relativePath": "cities/04-murmansk-scene.jpg",
+      "publicUrl": "/assets/seeds/polar-current/cities/04-murmansk-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Murmansk, Russia. Show the Arctic port on the Kola Bay with austere housing blocks, frozen industrial waterfront, severe northern light, and the unmistakable profile of Murmansk as a strategic polar harbor. This must read as an iconic city-establishing image for Murmansk, not a military staging shed or evidence room. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Murmansk",
+      "relativePath": "panoramas/04-murmansk-panorama.jpg",
+      "publicUrl": "/assets/seeds/polar-current/panoramas/04-murmansk-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Murmansk, Russia. Camera placement: eye level inside an Arctic logistics shed where the control core was staged under Sanna Kade's authorization before final deployment north. Show a believable cold-weather military-industrial space with insulated containers, staging pallets, Arctic gear, encrypted consoles, and grounded documentary realism. Include these visible clues as physical evidence in the environment: the shockproof control-core container on a staging cradle; Sanna Kade release paperwork; a Longyearbyen movement order on a tactical desk; fake Jonas Brevik credential material left near the access cage. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Murmansk",
+      "witness": "Alexei Sokolov",
+      "relativePath": "witnesses/murmansk-alexei-sokolov-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/murmansk-alexei-sokolov-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Alexei Sokolov. Location context: Murmansk, Russia. Personality: Arctic logistics director who notices when private cargo borrows military timing. Backstory: He manages cold-route staging outside Murmansk and knew immediately that the control core was moving under exceptional cover.. Voice and age cues: 50s Russian man, restrained Arctic cadence, precise and guarded. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Murmansk",
+      "witness": "Vera Petrov",
+      "relativePath": "witnesses/murmansk-vera-petrov-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/murmansk-vera-petrov-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Vera Petrov. Location context: Murmansk, Russia. Personality: Port security chief who trusts physical custody more than dramatic blame. Backstory: She oversees restricted access around Murmansk staging sheds and watched the operation manufacture a culprit before it moved the real system north again.. Voice and age cues: 40s Russian woman, cool official tone, exact and unsentimental. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "scene",
+      "city": "Longyearbyen",
+      "relativePath": "cities/05-longyearbyen-scene.jpg",
+      "publicUrl": "/assets/seeds/polar-current/cities/05-longyearbyen-scene.jpg",
+      "prompt": "Create a photorealistic editorial city image of Longyearbyen, Norway. Show the Arctic settlement under steep snowbound mountains with isolated buildings, tundra light, and the unmistakable frontier atmosphere of Svalbard. This must read as an iconic city-establishing image for Longyearbyen, not as a research-station control room or sabotage scene. No text, no labels, no split screen, no collage, no watermark.",
+      "status": "generated"
+    },
+    {
+      "type": "panorama",
+      "city": "Longyearbyen",
+      "relativePath": "panoramas/05-longyearbyen-panorama.jpg",
+      "publicUrl": "/assets/seeds/polar-current/panoramas/05-longyearbyen-panorama.jpg",
+      "prompt": "Create a photorealistic equirectangular 360 evidence panorama set in Longyearbyen, Norway. Camera placement: eye level inside an Arctic survey station where the stolen control core was installed into mapping equipment. Show a believable high-latitude research interior with monitoring racks, bathymetric displays, weatherproof hardware, and grounded documentary realism. Include these visible clues as physical evidence in the environment: the installed control core inside the survey array; distorted territorial outputs on the map screens; Sanna Kade's final activation paperwork; deployment records showing Murmansk staging and Halifax cover folded into the same upgrade package. The far left and far right edges must wrap naturally together for a panorama viewer. No text, no labels, no split screen, no collage, no watermark, no floating interface elements.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Longyearbyen",
+      "witness": "Kristin Sorensen",
+      "relativePath": "witnesses/longyearbyen-kristin-sorensen-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/longyearbyen-kristin-sorensen-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Kristin Sorensen. Location context: Longyearbyen, Norway. Personality: Research-station manager who notices when upgrades solve the wrong problem. Backstory: She runs an Arctic survey station outside Longyearbyen and realized the installed core was meant to manipulate territorial data, not improve safety.. Voice and age cues: 40s Norwegian woman, steady polar cadence, practical and incisive. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    },
+    {
+      "type": "portrait",
+      "city": "Longyearbyen",
+      "witness": "Ole Andersen",
+      "relativePath": "witnesses/longyearbyen-ole-andersen-portrait.jpg",
+      "publicUrl": "/assets/seeds/polar-current/witnesses/longyearbyen-ole-andersen-portrait.jpg",
+      "prompt": "Create a documentary-style photographic portrait. Subject: Ole Andersen. Location context: Longyearbyen, Norway. Personality: Arctic security inspector who remembers the room after the engineers leave. Backstory: He audits restricted installations across Svalbard and watched the handoff that turned a stolen core into an active geopolitical tool.. Voice and age cues: 60s Norwegian man, weathered calm voice, observant and blunt. Head-and-shoulders framing, single believable adult subject, authentic editorial photography, DSLR or medium-format camera look, 85mm lens, shallow depth of field, realistic skin pores, subtle asymmetry, natural eye detail, unretouched newsroom portrait, practical lighting, true-to-life fabric texture, subtle environmental background. This must read as a real photograph, not an illustration or painted image. No text, no frame, no watermark, no exaggerated stylization, no fantasy costume, no painterly texture, no synthetic cinematic grading.",
+      "status": "generated"
+    }
+  ]
+}

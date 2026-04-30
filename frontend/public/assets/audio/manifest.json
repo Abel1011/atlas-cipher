@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-04-30T05:38:21.092Z",
+  "provider": "ElevenLabs",
+  "assets": [
+    {
+      "slug": "travel-transition",
+      "description": "Air travel transition",
+      "durationSeconds": 5,
+      "output": "travel-transition.mp3",
+      "prompt": "Airplane in full flight for a modern global investigation game. Steady jet engine rumble, pressurized cabin air, smooth cruising altitude, confident travel momentum. No takeoff, no landing, no airport announcements, no music, no voices, no distortion."
+    },
+    {
+      "slug": "comms-loading",
+      "description": "Phone communication loading loop",
+      "durationSeconds": 4,
+      "output": "comms-loading.mp3",
+      "prompt": "Loopable telephone communication loading sound for a modern intelligence control room. Subtle phone line ringback pulses, soft telecom hiss, secure call setup feeling, clean and restrained. No voice, no music, no busy signal, no harsh static, seamless loop."
+    }
+  ]
+}

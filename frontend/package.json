@@ -1,0 +1,29 @@
+{
+  "name": "atlas-cipher-frontend",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@elevenlabs/react": "^1.1.1",
+    "@tailwindcss/vite": "^4.2.2",
+    "lucide-react": "^1.8.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-globe.gl": "^2.37.1",
+    "tailwindcss": "^4.2.2",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@types/three": "^0.184.0",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

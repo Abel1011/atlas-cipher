@@ -1,0 +1,27 @@
+{
+  "name": "atlas-cipher-backend",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "tsx src/index.ts",
+    "generate:seed-assets": "tsx src/scripts/generate-seed-assets.ts",
+    "generate:vivienne-portrait": "tsx src/scripts/generate-vivienne-portrait.ts",
+    "generate:sound-assets": "tsx src/scripts/generate-sound-assets.ts"
+  },
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.45.0",
+    "@hono/node-server": "^1.14.0",
+    "better-sqlite3": "^11.8.0",
+    "hono": "^4.7.0",
+    "openai": "^6.35.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/uuid": "^10.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.9.3"
+  }
+}
