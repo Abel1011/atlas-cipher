@@ -57,11 +57,11 @@ ElevenLabs Text to Speech is used for spoken mission delivery and other narrated
 
 This helps Atlas Cipher feel more like a premium briefing experience than a prototype with placeholder voice.
 
-### 4. Sound Generation For Atmosphere
+### 4. Sound And Music For Atmosphere
 
-ElevenLabs Sound Generation is used to produce ambient and interface-oriented audio such as travel cues, comms moments, and investigation atmosphere.
+ElevenLabs is used to shape the sonic atmosphere of Atlas Cipher across both effects and musical layers. That includes travel cues, comms moments, investigation ambience, mission themes, and tension beds that support moments like the panorama view and case board.
 
-That matters because Atlas Cipher depends on mood. The player is supposed to hear the difference between an active case board, a city visit, a comms connection, and a major outcome.
+That matters because Atlas Cipher depends on mood. The player is supposed to hear the difference between an active case board, a city visit, a comms connection, and a major outcome, not just through sound effects but through music that reinforces the tone of each investigation.
 
 ### 5. Voice Design For Character Identity
 
