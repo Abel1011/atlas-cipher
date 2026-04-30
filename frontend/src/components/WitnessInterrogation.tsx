@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 import { useGame } from '../context/GameContext';
 import * as api from '../lib/api';
-import { useAmbientSuppression, useLoopingSound } from './SoundEngine';
+import { useAmbientSuppression } from './SoundEngine';
 import { AUDIO_ASSET_URLS } from '../lib/audio-assets';
 
 interface TranscriptLine {
@@ -56,6 +56,28 @@ function WitnessInterrogationInner() {
   const signoffTimeoutRef = useRef<number | null>(null);
   const signoffWatchdogRef = useRef<number | null>(null);
   const signoffLastPlaybackActivityRef = useRef(0);
+  const connectingToneRef = useRef<HTMLAudioElement | null>(null);
+
+  const stopConnectingTone = useCallback(() => {
+    const audio = connectingToneRef.current;
+    if (!audio) return;
+
+    audio.pause();
+    audio.currentTime = 0;
+    audio.src = '';
+    connectingToneRef.current = null;
+  }, []);
+
+  const startConnectingTone = useCallback(() => {
+    stopConnectingTone();
+
+    const audio = new Audio(AUDIO_ASSET_URLS.commsLoading);
+    audio.loop = true;
+    audio.volume = 0.38;
+    audio.preload = 'auto';
+    void audio.play().catch(() => {});
+    connectingToneRef.current = audio;
+  }, [stopConnectingTone]);
 
   const conversation = useConversation({
     onConnect: () => {
@@ -170,6 +192,16 @@ function WitnessInterrogationInner() {
     scheduleSignoffCloseCheck();
   }, [isSpeaking, status]);
 
+  useEffect(() => {
+    if (status !== 'connecting') {
+      stopConnectingTone();
+    }
+
+    return () => {
+      stopConnectingTone();
+    };
+  }, [status, stopConnectingTone]);
+
   const startCall = useCallback(async () => {
     if (!activeWitnessId || startedRef.current || !witnessRecord) return;
     if (investigationLocked) {
@@ -188,6 +220,7 @@ function WitnessInterrogationInner() {
     signoffDetectedRef.current = false;
     pendingSignoffCloseRef.current = false;
     clearSignoffTimers();
+    startConnectingTone();
     setStatus('connecting');
     setErrorMsg(null);
     setTranscript([]);
@@ -208,7 +241,7 @@ function WitnessInterrogationInner() {
       setStatus('error');
       startedRef.current = false;
     }
-  }, [activeWitnessId, conversation, witnessRecord, investigationLocked]);
+  }, [activeWitnessId, conversation, witnessRecord, investigationLocked, startConnectingTone]);
 
   const hangup = useCallback(async () => {
     await flushTranscript();
@@ -369,7 +402,6 @@ function WitnessInterrogationInner() {
     }
   }, [discoverClue, hintingClueId, investigationLocked]);
 
-  useLoopingSound(AUDIO_ASSET_URLS.commsLoading, status === 'connecting', 0.38);
   useAmbientSuppression(status === 'connecting' || status === 'connected');
 
   const orbState: 'idle' | 'speaking' | 'user' | 'thinking' =
